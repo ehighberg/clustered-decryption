@@ -1,0 +1,1889 @@
+
+1
+
+gutenberg = split_shuffle_encrypt_cluster_decrypt('data/metrics')
+
+filepath data/metrics/John Ruskin___On the Old Road, Vol. 2 (of 2).txt
+filepath data/metrics/Henry Rider Haggard___Cleopatra.txt
+filepath data/metrics/George Alfred Henty___The Bravest of the Brave.txt
+filepath data/metrics/Lord Tennyson___The Early Poems of Alfred Lord Tennyson.txt
+filepath data/metrics/Henry Rider Haggard___Red Eve.txt
+filepath data/metrics/Elizabeth Barrett Browning___The Letters of Elizabeth Barrett Browning (1 of 2).txt
+filepath data/metrics/Sir Richard Francis Burton___Personal Narrative of a Pilgrimage to Al-Madinah & Meccah, Volume 2.txt
+filepath data/metrics/Charles Dickens___Life And Adventures Of Martin Chuzzlewit.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Green Flag.txt
+filepath data/metrics/Edward Phillips Oppenheim___A Maker of History.txt
+filepath data/metrics/James Fenimore Cooper___The Red Rover.txt
+filepath data/metrics/Robert Louis Stevenson___Lay Morals.txt
+filepath data/metrics/George Alfred Henty___By Conduct and Courage.txt
+filepath data/metrics/Jack London___The Faith of Men.txt
+filepath data/metrics/Bertrand Russell___The Analysis of Mind.txt
+filepath data/metrics/Thomas Hardy___The Dynasts.txt
+filepath data/metrics/Robert Louis Stevenson___Prince Otto.txt
+filepath data/metrics/James Fenimore Cooper___The Pioneers.txt
+filepath data/metrics/R M Ballantyne___Martin Rattler.txt
+filepath data/metrics/Daniel Defoe___A Journal of the Plague Year.txt
+filepath data/metrics/Sir Walter Scott___The Black Dwarf.txt
+filepath data/metrics/William Dean Howells___My Literary Passions.txt
+filepath data/metrics/Jerome Klapka Jerome___Diary of a Pilgrimage.txt
+filepath data/metrics/George Alfred Henty___Dorothy's Double, Volume 3.txt
+filepath data/metrics/Henry Rider Haggard___Lysbeth.txt
+filepath data/metrics/R M Ballantyne___The Norsemen in the West.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys in the Land of Luck.txt
+filepath data/metrics/John Dryden___Dryden's Works Vol. 7 (of 18).txt
+filepath data/metrics/Herbert George Wells___The Stolen Bacillus and Other Incidents.txt
+filepath data/metrics/Edmund Burke___Thoughts on the Present Discontents.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys at Colby Hall.txt
+filepath data/metrics/Edgar Rice Burroughs___Tarzan and the Jewels of Opar.txt
+filepath data/metrics/P G Wodehouse___Mike and Psmith.txt
+filepath data/metrics/Mark Twain___Personal Recollections of Joan of Arc, Volume 2.txt
+filepath data/metrics/Bret Harte___The Twins of Table Mountain and Other Stories.txt
+filepath data/metrics/Lord Byron___The Works of Lord Byron. Vol. 3.txt
+filepath data/metrics/Michael Faraday___The Chemical History Of A Candle.txt
+filepath data/metrics/Jack London___South Sea Tales.txt
+filepath data/metrics/Lucy Maud Montgomery___Lucy Maud Montgomery Short Stories, 1907 to 1908.txt
+filepath data/metrics/Mark Twain___The Prince and The Pauper, Complete.txt
+filepath data/metrics/William Butler Yeats___Poems.txt
+filepath data/metrics/Jack London___Adventure.txt
+filepath data/metrics/William Dean Howells___The Minister's Charge.txt
+filepath data/metrics/Anthony Trollope___Cousin Henry.txt
+filepath data/metrics/Alfred Russel Wallace___The Malay Archipelago, Volume 1.txt
+filepath data/metrics/Jerome Klapka Jerome___They and I.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Avenger.txt
+filepath data/metrics/Charlotte Mary Yonge___The Carbonels.txt
+filepath data/metrics/William Dean Howells___Their Silver Wedding Journey.txt
+filepath data/metrics/Anthony Trollope___The Fixed Period.txt
+filepath data/metrics/William Somerset Maugham___Of Human Bondage.txt
+filepath data/metrics/Ambrose Bierce___The Devil's Dictionary.txt
+filepath data/metrics/Charles Darwin___The Descent of Man and Selection in Relation to Sex.txt
+filepath data/metrics/James Otis___Toby Tyler.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys on the Plains.txt
+filepath data/metrics/Robert Louis Stevenson___Memoir of Fleeming Jenkin.txt
+filepath data/metrics/Anthony Trollope___The Prime Minister.txt
+filepath data/metrics/Ambrose Bierce___Can Such Things Be?.txt
+filepath data/metrics/Edgar Rice Burroughs___The Son of Tarzan.txt
+filepath data/metrics/Hamlin Garland___The Light of the Star.txt
+filepath data/metrics/Henry James___Confidence.txt
+filepath data/metrics/William Wymark Jacobs___Salthaven.txt
+filepath data/metrics/Sir Arthur Conan Doyle___A Desert Drama.txt
+filepath data/metrics/Joseph Conrad___Nostromo, A Tale of the Seaboard.txt
+filepath data/metrics/Herbert George Wells___The Passionate Friends.txt
+filepath data/metrics/William Somerset Maugham___The Land of The Blessed Virgin; Sketches and Impressions in Andalusia.txt
+filepath data/metrics/Alfred Russel Wallace___Darwinism.txt
+filepath data/metrics/Charlotte Mary Yonge___Hopes and Fears.txt
+filepath data/metrics/Jacob Abbott___Margaret of Anjou.txt
+filepath data/metrics/John Galsworthy___The Burning Spear.txt
+filepath data/metrics/John Galsworthy___The Project Gutenberg Plays of John Galsworthy, Complete.txt
+filepath data/metrics/Henry Rider Haggard___The Ivory Child.txt
+filepath data/metrics/William Makepeace Thackeray___Ballads.txt
+filepath data/metrics/Henry James___Embarrassments.txt
+filepath data/metrics/Harold Bindloss___The Secret of the Reef.txt
+filepath data/metrics/Herbert George Wells___The Wonderful Visit.txt
+filepath data/metrics/P G Wodehouse___Uneasy Money.txt
+filepath data/metrics/Hamlin Garland___Rose of Dutcher's Coolly.txt
+filepath data/metrics/Thomas Carlyle___Sartor Resartus.txt
+filepath data/metrics/Mark Twain___Personal Recollections of Joan of Arc, Volume 1.txt
+filepath data/metrics/Henry Rider Haggard___Montezuma's Daughter.txt
+filepath data/metrics/James Fenimore Cooper___The Monikins.txt
+filepath data/metrics/Hamlin Garland___Wayside Courtships.txt
+filepath data/metrics/James Russell Lowell___The Complete Poetical Works of James Russell Lowell.txt
+filepath data/metrics/P G Wodehouse___The Prince and Betty.txt
+filepath data/metrics/Charles Kingsley___The Water of Life and Other Sermons.txt
+filepath data/metrics/William Dean Howells___A Chance Acquaintance.txt
+filepath data/metrics/William Wordsworth___The Poetical Works of William Wordsworth, Volume 4.txt
+filepath data/metrics/Henry Rider Haggard___Moon of Israel.txt
+filepath data/metrics/Jack London___A Son Of The Sun.txt
+filepath data/metrics/Herman Melville___Redburn. His First Voyage.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys at College.txt
+filepath data/metrics/Herman Melville___Mardi: and A Voyage Thither, Volume 1.txt
+filepath data/metrics/Henry David Thoreau___Cape Cod.txt
+filepath data/metrics/John Dryden___Dryden's Works Vol. 3 (of 18).txt
+filepath data/metrics/George Eliot___Daniel Deronda.txt
+filepath data/metrics/James Fenimore Cooper___Homeward Bound.txt
+filepath data/metrics/Jacob Abbott___Rollo in Switzerland.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys in Alaska.txt
+filepath data/metrics/Lyman Frank Baum___Aunt Jane's Nieces Out West.txt
+filepath data/metrics/Bret Harte___A Ward of the Golden Gate.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Great Boer War.txt
+filepath data/metrics/Howard Pyle___The Story of Sir Launcelot and His Companions.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Black Box.txt
+filepath data/metrics/Edward Stratemeyer___Dave Porter on Cave Island.txt
+filepath data/metrics/G K Chesterton___Varied Types.txt
+filepath data/metrics/Herbert George Wells___The Salvaging Of Civilisation.txt
+filepath data/metrics/Edgar Rice Burroughs___The Return of Tarzan.txt
+filepath data/metrics/Sir Walter Scott___The Talisman.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys in Business.txt
+filepath data/metrics/Henry Rider Haggard___The Ancient Allan.txt
+filepath data/metrics/Nathaniel Hawthorne___Mosses from an Old Manse and Other Stories.txt
+filepath data/metrics/R M Ballantyne___The Madman and the Pirate.txt
+filepath data/metrics/Henry James___The American.txt
+filepath data/metrics/John Galsworthy___Saint's Progress.txt
+filepath data/metrics/G K Chesterton___Alarms and Discursions.txt
+filepath data/metrics/Frank Richard Stockton___What Might Have Been Expected.txt
+
+filepath data/metrics/George Alfred Henty___Rujub, the Juggler.txt
+filepath data/metrics/Charles Kingsley___Madam How and Lady Why.txt
+filepath data/metrics/William Wymark Jacobs___Deep Waters.txt
+filepath data/metrics/Herbert George Wells___Text Book of Biology, Part 1: Vertebrata.txt
+filepath data/metrics/James Fenimore Cooper___The Wept of Wish-Ton-Wish.txt
+filepath data/metrics/Herbert George Wells___Tono Bungay.txt
+filepath data/metrics/Zane Grey___The Heritage of the Desert.txt
+filepath data/metrics/Baronness Orczy___Petticoat Rule.txt
+filepath data/metrics/Winston Churchill___The Dwelling Place of Light, Complete.txt
+filepath data/metrics/George Bernard Shaw___An Unsocial Socialist.txt
+filepath data/metrics/Charles Kingsley___Sermons on National Subjects.txt
+filepath data/metrics/Washington Irving___The Life of George Washington, Volume I.txt
+filepath data/metrics/Lord Byron___Childe Harold's Pilgrimage.txt
+filepath data/metrics/Hamlin Garland___The Eagle's Heart.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Double Four.txt
+filepath data/metrics/George Alfred Henty___At the Point of the Bayonet.txt
+filepath data/metrics/O Henry___Sixes and Sevens.txt
+filepath data/metrics/Charles Kingsley___Twenty-Five Village Sermons.txt
+filepath data/metrics/Robert Browning___Selections from the Poems and Plays of Robert Browning.txt
+filepath data/metrics/James Russell Lowell___The Biglow Papers.txt
+filepath data/metrics/Jacob Abbott___History of King Charles II of England.txt
+filepath data/metrics/Herbert George Wells___The Food of the Gods and How It Came to Earth.txt
+filepath data/metrics/Edward Stratemeyer___Dave Porter in the Far North.txt
+filepath data/metrics/Baronness Orczy___El Dorado.txt
+filepath data/metrics/Charlotte Mary Yonge___The Young Step-Mother.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys on the Farm.txt
+filepath data/metrics/Louisa May Alcott___Kitty's Class Day And Other Stories.txt
+filepath data/metrics/John Morley___The Life of William Ewart Gladstone (Vol 3 of 3).txt
+filepath data/metrics/William Dean Howells___A Pair of Patient Lovers.txt
+filepath data/metrics/Wilkie Collins___The Moonstone.txt
+filepath data/metrics/Bret Harte___Trent's Trust and Other Stories.txt
+filepath data/metrics/Lyman Frank Baum___Aunt Jane's Nieces at Millville.txt
+filepath data/metrics/Herbert George Wells___The Invisible Man.txt
+filepath data/metrics/William Makepeace Thackeray___Men's Wives.txt
+filepath data/metrics/Edgar Rice Burroughs___The Monster Men.txt
+filepath data/metrics/William Dean Howells___A Foregone Conclusion.txt
+filepath data/metrics/Edward Stratemeyer___Dave Porter in the South Seas.txt
+filepath data/metrics/William Makepeace Thackeray___The Newcomes.txt
+filepath data/metrics/Oscar Wilde___Essays and Lectures.txt
+filepath data/metrics/Stephen Leacock___Sunshine Sketches of a Little Town.txt
+filepath data/metrics/Grant Allen___An African Millionaire.txt
+filepath data/metrics/Edward Phillips Oppenheim___An Amiable Charlatan.txt
+filepath data/metrics/Sir Richard Francis Burton___Two Trips to Gorilla Land and the Cataracts of the Congo, Volume 1.txt
+filepath data/metrics/Hamlin Garland___The Forester's Daughter.txt
+filepath data/metrics/P G Wodehouse___Love Among the Chickens.txt
+filepath data/metrics/Jack London___The Son of the Wolf.txt
+filepath data/metrics/Baronness Orczy___Castles in the Air.txt
+filepath data/metrics/Frank Richard Stockton___Mrs. Cliff's Yacht.txt
+filepath data/metrics/P G Wodehouse___Psmith, Journalist.txt
+filepath data/metrics/Jane Austen___Emma.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 21.txt
+filepath data/metrics/William Henry Hudson___Green Mansions.txt
+filepath data/metrics/Hamlin Garland___Main-Travelled Roads.txt
+filepath data/metrics/Sir Walter Scott___St. Ronan's Well.txt
+filepath data/metrics/Lord Byron___Byron's Poetical Works, Vol. 1.txt
+filepath data/metrics/Louisa May Alcott___Silver Pitchers: and Independence.txt
+filepath data/metrics/Henry James___Some Short Stories.txt
+filepath data/metrics/Henry James___Roderick Hudson.txt
+filepath data/metrics/Winston Churchill___A Modern Chronicle, Complete.txt
+filepath data/metrics/Nathaniel Hawthorne___Passages from the American Notebooks, Volume 2.txt
+filepath data/metrics/Jonathan Swift___The Journal to Stella.txt
+filepath data/metrics/Wilkie Collins___No Name.txt
+filepath data/metrics/Zane Grey___Desert Gold.txt
+filepath data/metrics/John Ruskin___Lectures on Architecture and Painting.txt
+filepath data/metrics/Sir Winston Churchill___London to Ladysmith via Pretoria.txt
+filepath data/metrics/Joseph Conrad___The Arrow of Gold.txt
+filepath data/metrics/Thomas Carlyle___Past and Present.txt
+filepath data/metrics/George Alfred Henty___The Cornet of Horse.txt
+filepath data/metrics/Harold Bindloss___The League of the Leopard.txt
+filepath data/metrics/Louisa May Alcott___Aunt Jo's Scrap-Bag VI.txt
+filepath data/metrics/Robert Browning___Browning's Shorter Poems.txt
+filepath data/metrics/Samuel Taylor Coleridge___Coleridge's Literary Remains, Volume 1.txt
+filepath data/metrics/Thornton Waldo Burgess___The Burgess Bird Book for Children.txt
+filepath data/metrics/Sir Arthur Conan Doyle___Tales of Terror and Mystery.txt
+filepath data/metrics/R M Ballantyne___The Coxswain's Bride.txt
+filepath data/metrics/Sir Winston Churchill___Liberalism and the Social Problem.txt
+filepath data/metrics/Sir Humphry Davy___Consolations in Travel.txt
+filepath data/metrics/James Fenimore Cooper___The Pilot.txt
+filepath data/metrics/William Wordsworth___The Poetical Works of William Wordsworth, Volume 3.txt
+filepath data/metrics/Andrew Lang___The Pink Fairy Book.txt
+filepath data/metrics/Robert Louis Stevenson___Virginibus Puerisque.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 14.txt
+filepath data/metrics/John Galsworthy___Another Sheaf.txt
+filepath data/metrics/Rafael Sabatini___The Historical Nights' Entertainment, First Series.txt
+filepath data/metrics/Jerome Klapka Jerome___Three Men on the Bummel.txt
+filepath data/metrics/Charles Dickens___Reprinted Pieces.txt
+filepath data/metrics/Harold Bindloss___The Protector.txt
+filepath data/metrics/Frank Richard Stockton___The Bee-Man of Orn and Other Fanciful Tales.txt
+filepath data/metrics/James Russell Lowell___Among My Books, Second Series.txt
+filepath data/metrics/Henry James___The Letters of Henry James, Volume 2.txt
+filepath data/metrics/Edgar Rice Burroughs___Warlord of Mars.txt
+filepath data/metrics/Lyman Frank Baum___The Tin Woodman of Oz.txt
+filepath data/metrics/Edward Stratemeyer___Young Auctioneers.txt
+filepath data/metrics/John Galsworthy___Tatterdemalion.txt
+filepath data/metrics/Jacob Abbott___Cleopatra.txt
+filepath data/metrics/Bret Harte___On the Frontier.txt
+filepath data/metrics/John Ruskin___Time and Tide by Weare and Tyne.txt
+filepath data/metrics/Robert Louis Stevenson___Essays of Travel.txt
+filepath data/metrics/Anthony Trollope___Is He Popenjoy?.txt
+filepath data/metrics/D H Lawrence___Women in Love.txt
+filepath data/metrics/Ralph Waldo Emerson___Essays, Second Series.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Return of Sherlock Holmes.txt
+filepath data/metrics/Rudyard Kipling___Under the Deodars.txt
+filepath data/metrics/Sinclair Lewis___Our Mr. Wrenn.txt
+filepath data/metrics/Stephen Leacock___Frenzied Fiction.txt
+filepath data/metrics/Sir Walter Scott___Old Mortality.txt
+filepath data/metrics/Henry Rider Haggard___The Lady Of Blossholme.txt
+filepath data/metrics/Andrew Lang___Historical Mysteries.txt
+filepath data/metrics/Harriet Elizabeth Beecher Stowe___The Pearl of Orr's Island.txt
+filepath data/metrics/Joseph Conrad___A Set of Six.txt
+filepath data/metrics/Herman Melville___The Piazza Tales.txt
+filepath data/metrics/Jack London___The Night-Born.txt
+filepath data/metrics/Joseph Conrad___End of the Tether.txt
+filepath data/metrics/James Fenimore Cooper___The Water-Witch.txt
+filepath data/metrics/Anthony Trollope___The Last Chronicle of Barset.txt
+filepath data/metrics/Rudyard Kipling___Traffics and Discoveries.txt
+filepath data/metrics/Edgar Allan Poe___The Works of Edgar Allan Poe Volume 3.txt
+
+filepath data/metrics/Edward Phillips Oppenheim___The Illustrious Prince.txt
+filepath data/metrics/James Otis___Commodore Barney's Young Spies.txt
+filepath data/metrics/Samuel Taylor Coleridge___Coleridge's Literary Remains, Volume 2.txt
+filepath data/metrics/Henry Rider Haggard___Allan Quatermain.txt
+filepath data/metrics/Andrew Lang___The Valet's Tragedy and Other Stories.txt
+filepath data/metrics/Andrew Lang___The Book of Dreams and Ghosts.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 17.txt
+filepath data/metrics/Charles Darwin___On the Origin of Species by Means of Natural Selection or the Preservation of Favoured Races in the Struggle for Life. (2nd edition).txt
+filepath data/metrics/William Dean Howells___Suburban Sketches.txt
+filepath data/metrics/William Makepeace Thackeray___Memoirs of Mr. Charles J. Yellowplush.txt
+filepath data/metrics/Rafael Sabatini___Scaramouche.txt
+filepath data/metrics/Henry Rider Haggard___She.txt
+filepath data/metrics/Hector Hugh Munro___When William Came.txt
+filepath data/metrics/John Ruskin___The Stones of Venice, Volume II (of 3).txt
+filepath data/metrics/Sir Walter Scott___Ivanhoe.txt
+filepath data/metrics/George Alfred Henty___The Young Colonists.txt
+filepath data/metrics/Mark Twain___Christian Science.txt
+filepath data/metrics/Grant Allen___Anglo-Saxon Britain.txt
+filepath data/metrics/Henry Rider Haggard___The Wizard.txt
+filepath data/metrics/Harold Bindloss___For the Allinson Honor.txt
+filepath data/metrics/P G Wodehouse___The Clicking of Cuthbert.txt
+filepath data/metrics/Edward Phillips Oppenheim___Peter Ruff and the Double Four.txt
+filepath data/metrics/P G Wodehouse___The Girl on the Boat.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 5.txt
+filepath data/metrics/Anthony Trollope___Doctor Thorne.txt
+filepath data/metrics/Zane Grey___The Spirit of the Border.txt
+filepath data/metrics/Edward Stratemeyer___Four Boy Hunters.txt
+filepath data/metrics/James Fenimore Cooper___Home as Found.txt
+filepath data/metrics/Wilkie Collins___Armadale.txt
+filepath data/metrics/Henry Rider Haggard___Benita, An African Romance.txt
+filepath data/metrics/Sir Winston Churchill___The River War.txt
+filepath data/metrics/Henry Rider Haggard___Jess.txt
+filepath data/metrics/Edgar Rice Burroughs___Tarzan the Terrible.txt
+filepath data/metrics/Louisa May Alcott___Jo's Boys.txt
+filepath data/metrics/Jack London___White Fang.txt
+filepath data/metrics/Hamlin Garland___The Shadow World.txt
+filepath data/metrics/Edward Stratemeyer___The Missing Tin Box.txt
+filepath data/metrics/James Otis___Left Behind.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The War in South Africa.txt
+filepath data/metrics/Henry James___The Letters of Henry James, Volume 1.txt
+filepath data/metrics/Grant Allen___Recalled to Life.txt
+filepath data/metrics/Thomas Hardy___The Woodlanders.txt
+filepath data/metrics/Washington Irving___Astoria.txt
+filepath data/metrics/Andrew Lang___The Crimson Fairy Book.txt
+filepath data/metrics/Charles Kingsley___Westminster Sermons.txt
+filepath data/metrics/Charles Dickens___Little Dorrit.txt
+filepath data/metrics/Robert Louis Stevenson___Records of a Family of Engineers.txt
+filepath data/metrics/John Ruskin___Love's Meinie.txt
+filepath data/metrics/Sir Walter Scott___The Heart of Mid-Lothian.txt
+filepath data/metrics/Thomas Carlyle___The Life of Friedrich Schiller.txt
+filepath data/metrics/D H Lawrence___England, My England.txt
+filepath data/metrics/Jacob Abbott___Rollo in Geneva.txt
+filepath data/metrics/Charlotte Mary Yonge___The Herd Boy and His Hermit.txt
+filepath data/metrics/Hamlin Garland___A Spoil of Office.txt
+filepath data/metrics/Charles Dickens___Nicholas Nickleby.txt
+filepath data/metrics/Herbert George Wells___New Worlds For Old.txt
+filepath data/metrics/Anthony Trollope___North America Volume 1.txt
+filepath data/metrics/Rudyard Kipling___Soldier Stories.txt
+filepath data/metrics/William Dean Howells___The March Family Trilogy.txt
+filepath data/metrics/Rudyard Kipling___Soldiers Three, Part 2.txt
+filepath data/metrics/Zane Grey___The Border Legion.txt
+filepath data/metrics/Jacob Abbott___Gentle Measures in the Management and Training of the Young.txt
+filepath data/metrics/William Somerset Maugham___Orientations.txt
+filepath data/metrics/Jack London___Lost Face.txt
+filepath data/metrics/Anthony Trollope___Can You Forgive Her?.txt
+filepath data/metrics/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 10 (of 12).txt
+filepath data/metrics/Mary Shelley___The Last Man.txt
+filepath data/metrics/Bret Harte___Frontier Stories.txt
+filepath data/metrics/William Dean Howells___Venetian Life.txt
+filepath data/metrics/William Makepeace Thackeray___The Virginians.txt
+filepath data/metrics/Daniel Defoe___The Life and Adventures of Robinson Crusoe.txt
+filepath data/metrics/Robert Louis Stevenson___Familiar Studies of Men & Books.txt
+filepath data/metrics/Charlotte Mary Yonge___Pioneers and Founders.txt
+filepath data/metrics/Andrew Lang___John Knox and the Reformation.txt
+filepath data/metrics/Sir Walter Scott___The Antiquary, Complete.txt
+filepath data/metrics/Henry Rider Haggard___Love Eternal.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 2.txt
+filepath data/metrics/Herbert George Wells___Soul of a Bishop.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Yellow Crayon.txt
+filepath data/metrics/John Stuart Mill___Considerations on Representative Government.txt
+filepath data/metrics/James Otis___The Minute Boys of the Mohawk Valley.txt
+filepath data/metrics/Thomas Robert Malthus___An Essay on the Principle of Population.txt
+filepath data/metrics/William Makepeace Thackeray___The History of Samuel Titmarsh.txt
+filepath data/metrics/R M Ballantyne___The Island Queen.txt
+filepath data/metrics/Zane Grey___The Last of the Plainsmen.txt
+filepath data/metrics/George Alfred Henty___The Curse of Carne's Hold.txt
+filepath data/metrics/Benjamin Franklin___Autobiography of Benjamin Franklin, Version 2.txt
+filepath data/metrics/John Morley___Diderot and the Encyclopædists (Vol 2 of 2).txt
+filepath data/metrics/Charlotte Mary Yonge___Heartsease.txt
+filepath data/metrics/Joseph Conrad___An Outcast of the Islands.txt
+filepath data/metrics/Washington Irving___Tales of a Traveller.txt
+filepath data/metrics/Harold Bindloss___The Girl From Keller's.txt
+filepath data/metrics/Rudyard Kipling___Puck of Pook's Hill.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Mystery of Cloomber.txt
+filepath data/metrics/Daniel Defoe___The Life and Adventures of Robinson Crusoe (1808).txt
+filepath data/metrics/Charles Darwin___The Formation of Vegetable Mould through the action of worms with observations of their habits.txt
+filepath data/metrics/Edward Stratemeyer___Out with Gun and Camera.txt
+filepath data/metrics/Herman Melville___Typee.txt
+filepath data/metrics/R M Ballantyne___The Red Man's Revenge.txt
+filepath data/metrics/Charles Darwin___A Naturalist's Voyage Round the World.txt
+filepath data/metrics/R M Ballantyne___Hunted and Harried.txt
+filepath data/metrics/Benjamin Disraeli___Sketches.txt
+filepath data/metrics/Jane Austen___Mansfield Park.txt
+filepath data/metrics/Henry Rider Haggard___Morning Star.txt
+filepath data/metrics/Robert Louis Stevenson___St. Ives.txt
+filepath data/metrics/Charles Kingsley___At Last.txt
+filepath data/metrics/Charlotte Mary Yonge___The Two Guardians.txt
+filepath data/metrics/Edward Stratemeyer___The Last Cruise of the Spitfire.txt
+filepath data/metrics/Rudyard Kipling___The Day's Work, Part 1.txt
+filepath data/metrics/Baronness Orczy___The League of the Scarlet Pimpernel.txt
+filepath data/metrics/O Henry___The Voice of the City.txt
+filepath data/metrics/Frank Richard Stockton___The Late Mrs. Null.txt
+filepath data/metrics/Frank Richard Stockton___The Girl at Cobhurst.txt
+filepath data/metrics/Bret Harte___The Crusade of the Excelsior.txt
+filepath data/metrics/Wilkie Collins___The Guilty River.txt
+filepath data/metrics/Edward Phillips Oppenheim___Anna the Adventuress.txt
+filepath data/metrics/Frank Richard Stockton___The Rudder Grangers Abroad and Other Stories.txt
+filepath data/metrics/Charlotte Mary Yonge___Stray Pearls.txt
+
+filepath data/metrics/John Dryden___The Poetical Works of John Dryden, Volume 1.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 17.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys at Big Horn Ranch.txt
+filepath data/metrics/George Alfred Henty___A Knight of the White Cross.txt
+filepath data/metrics/Hamlin Garland___A Son of the Middle Border.txt
+filepath data/metrics/Sir Walter Scott___The Monastery.txt
+filepath data/metrics/Rudyard Kipling___The Light That Failed.txt
+filepath data/metrics/Edgar Rice Burroughs___The Beasts of Tarzan.txt
+filepath data/metrics/Charles Dickens___Pictures from Italy.txt
+filepath data/metrics/Zane Grey___Riders of the Purple Sage.txt
+filepath data/metrics/Zane Grey___Valley of Wild Horses.txt
+filepath data/metrics/James Matthew Barrie___Peter and Wendy.txt
+filepath data/metrics/Charles Dickens___The Lazy Tour of Two Idle Apprentices.txt
+filepath data/metrics/R M Ballantyne___The Iron Horse.txt
+filepath data/metrics/Robert Louis Stevenson___Vailima Letters.txt
+filepath data/metrics/George Alfred Henty___Won by the Sword.txt
+filepath data/metrics/Thomas Carlyle___Heroes and Hero Worship.txt
+filepath data/metrics/Rafael Sabatini___The Lion's Skin.txt
+filepath data/metrics/Benjamin Franklin___Autobiography of Benjamin Franklin, Version 1.txt
+filepath data/metrics/G K Chesterton___The Napoleon of Notting Hill.txt
+filepath data/metrics/George Alfred Henty___Tales of Daring and Danger.txt
+filepath data/metrics/Wilkie Collins___The Black Robe.txt
+filepath data/metrics/George Alfred Henty___Facing Death.txt
+filepath data/metrics/R M Ballantyne___The Hot Swamp.txt
+filepath data/metrics/R M Ballantyne___The Settler and the Savage.txt
+filepath data/metrics/Charles Darwin___The Effects of Cross & Self-Fertilisation in the Vegetable Kingdom.txt
+filepath data/metrics/George Alfred Henty___With Clive in India.txt
+filepath data/metrics/Jerome Klapka Jerome___Paul Kelver.txt
+filepath data/metrics/Lucy Maud Montgomery___Lucy Maud Montgomery Short Stories, 1902 to 1903.txt
+filepath data/metrics/James Fenimore Cooper___Satanstoe.txt
+filepath data/metrics/Charlotte Mary Yonge___A Reputed Changeling.txt
+filepath data/metrics/George Alfred Henty___The Cat of Bubastes.txt
+filepath data/metrics/Joseph Conrad___'Twixt Land & Sea.txt
+filepath data/metrics/Herbert George Wells___Anticipations.txt
+filepath data/metrics/Daniel Defoe___The Consolidator.txt
+filepath data/metrics/Sinclair Lewis___The Trail of the Hawk.txt
+filepath data/metrics/George Alfred Henty___Saint George for England.txt
+filepath data/metrics/Benjamin Disraeli___Vivian Grey.txt
+filepath data/metrics/Charlotte Mary Yonge___The Chosen People.txt
+filepath data/metrics/William Dean Howells___The Story of a Play.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Last Galley.txt
+filepath data/metrics/Jonathan Swift___Gulliver's Travels.txt
+filepath data/metrics/Abraham Lincoln___The Writings of Abraham Lincoln, Volume 5: 1858-1862.txt
+filepath data/metrics/Bram Stoker___Dracula.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Vanished Messenger.txt
+filepath data/metrics/Joseph Conrad___The Nigger Of The "Narcissus".txt
+filepath data/metrics/James Otis___Ralph Gurney's Oil Speculation.txt
+filepath data/metrics/Charlotte Mary Yonge___Beechcroft at Rockstone.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 16.txt
+filepath data/metrics/Charlotte Mary Yonge___The Stokesley Secret.txt
+filepath data/metrics/Sir Walter Scott___Woodstock; or, The Cavalier.txt
+filepath data/metrics/Charles Kingsley___Hypatia.txt
+filepath data/metrics/George Eliot___Silas Marner.txt
+filepath data/metrics/Charles Kingsley___The Gospel of the Pentateuch.txt
+filepath data/metrics/William Butler Yeats___The Trembling of the Veil.txt
+filepath data/metrics/Lucy Maud Montgomery___Rilla of Ingleside.txt
+filepath data/metrics/Grant Allen___The Great Taboo.txt
+filepath data/metrics/Henry Rider Haggard___Beatrice.txt
+filepath data/metrics/Abraham Lincoln___The Writings of Abraham Lincoln, Volume 1: 1832-1843.txt
+filepath data/metrics/Henry James___The Outcry.txt
+filepath data/metrics/Thomas Henry Huxley___Lectures and Essays, Version 2.txt
+filepath data/metrics/Robert Southey___The Life of Horatio Lord Nelson.txt
+filepath data/metrics/Edward Phillips Oppenheim___A Monk of Cruta.txt
+filepath data/metrics/Henry James___The Portrait of a Lady, Volume 1.txt
+filepath data/metrics/Charles Darwin___The Expression of Emotion in Man and Animals.txt
+filepath data/metrics/Edgar Allan Poe___The Works of Edgar Allan Poe Volume 4.txt
+filepath data/metrics/Jerome Klapka Jerome___Tommy and Co.txt
+filepath data/metrics/George Alfred Henty___Beric the Briton.txt
+filepath data/metrics/Anthony Trollope___Life of Cicero Volume Two.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Wicked Marquis.txt
+filepath data/metrics/Edward Stratemeyer___The Young Oarsmen of Lakeview.txt
+filepath data/metrics/Jack London___A Daughter of the Snows.txt
+filepath data/metrics/William Butler Yeats___In The Seven Woods.txt
+filepath data/metrics/Charlotte Mary Yonge___Cameos from English History, from Rollo to Edward II.txt
+filepath data/metrics/Charles Dickens___The Letters of Charles Dickens Volume 3.txt
+filepath data/metrics/G K Chesterton___The Innocence of Father Brown.txt
+filepath data/metrics/Grant Allen___The Beckoning Hand and Other Stories.txt
+filepath data/metrics/Herbert George Wells___Mankind in the Making.txt
+filepath data/metrics/Anthony Trollope___The Kellys and the O'Kellys.txt
+filepath data/metrics/James Otis___The Boys of ’98.txt
+filepath data/metrics/Sir Walter Scott___The Betrothed.txt
+filepath data/metrics/William Wymark Jacobs___Captains All.txt
+filepath data/metrics/Charlotte Mary Yonge___Unknown to History.txt
+filepath data/metrics/Jonathan Swift___The Prose Works of Jonathan Swift, D.D., Volume 10.txt
+filepath data/metrics/Frank Richard Stockton___Round-about Rambles in Lands of Fact and Fancy.txt
+filepath data/metrics/William Dean Howells___Roman Holidays and Others.txt
+filepath data/metrics/Sir Isaac Newton___Opticks.txt
+filepath data/metrics/Edgar Rice Burroughs___The Efficiency Expert.txt
+filepath data/metrics/James Otis___Corporal 'Lige's Recruit.txt
+filepath data/metrics/John Stuart Mill___A System Of Logic, Ratiocinative And Inductive.txt
+filepath data/metrics/Thomas Carlyle___Latter-Day Pamphlets.txt
+filepath data/metrics/George Alfred Henty___Winning His Spurs.txt
+filepath data/metrics/O Henry___Options.txt
+filepath data/metrics/Bret Harte___The Luck of Roaring Camp and Other Tales.txt
+filepath data/metrics/Charlotte Mary Yonge___Young Folks' History of England.txt
+filepath data/metrics/Thomas Henry Huxley___Science & Education.txt
+filepath data/metrics/R M Ballantyne___The Coral Island.txt
+filepath data/metrics/Nathaniel Hawthorne___Sketches and Studies.txt
+filepath data/metrics/John Ruskin___Modern Painters, Volume 2 (of 5).txt
+filepath data/metrics/Jacob Abbott___Rollo in London.txt
+filepath data/metrics/William Makepeace Thackeray___The History of Henry Esmond, Esq.txt
+filepath data/metrics/John Ruskin___Modern Painters, Volume 1 (of 5).txt
+filepath data/metrics/George Bernard Shaw___Man And Superman.txt
+filepath data/metrics/John Morley___Burke.txt
+filepath data/metrics/George Alfred Henty___Saint Bartholomew's Eve.txt
+filepath data/metrics/Frank Richard Stockton___The Captain's Toll-Gate.txt
+filepath data/metrics/Nathaniel Hawthorne___True Stories from History and Biography.txt
+filepath data/metrics/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 08 (of 12).txt
+filepath data/metrics/R M Ballantyne___The Giant of the North.txt
+filepath data/metrics/O Henry___The Four Million.txt
+filepath data/metrics/Charlotte Mary Yonge___Love and Life.txt
+filepath data/metrics/Charles Dickens___Barnaby Rudge.txt
+filepath data/metrics/Abraham Lincoln___The Writings of Abraham Lincoln, Volume 7: 1863-1865.txt
+filepath data/metrics/Zane Grey___The Man of the Forest.txt
+filepath data/metrics/John Bunyan___The Holy War.txt
+filepath data/metrics/John Galsworthy___The Island Pharisees.txt
+
+filepath data/metrics/Alexander Pope___The Works of Alexander Pope, Volume 1.txt
+filepath data/metrics/Sir Arthur Conan Doyle___Round the Red Lamp.txt
+filepath data/metrics/Frank Richard Stockton___Pomona's Travels.txt
+filepath data/metrics/Sir Walter Scott___Chronicles of the Canongate.txt
+filepath data/metrics/Grant Allen___Strange Stories.txt
+filepath data/metrics/George Alfred Henty___Maori and Settler.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 20.txt
+filepath data/metrics/John Bunyan___The Life and Death of Mr. Badman.txt
+filepath data/metrics/James Fenimore Cooper___The Pathfinder.txt
+filepath data/metrics/Charles Kingsley___The Roman and the Teuton.txt
+filepath data/metrics/Sir Walter Scott___Kenilworth.txt
+filepath data/metrics/Harold Bindloss___The Coast of Adventure.txt
+filepath data/metrics/Harriet Elizabeth Beecher Stowe___Lady Byron Vindicated.txt
+filepath data/metrics/Benjamin Disraeli___Endymion.txt
+filepath data/metrics/Thomas Carlyle___The French Revolution.txt
+filepath data/metrics/Agatha Christie___The Secret Adversary.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Last of the Legions and Other Tales of Long Ago.txt
+filepath data/metrics/Samuel Taylor Coleridge___Biographia Epistolaris, Volume 1.txt
+filepath data/metrics/Herbert George Wells___What is Coming?.txt
+filepath data/metrics/Lucy Maud Montgomery___Lucy Maud Montgomery Short Stories, 1904.txt
+filepath data/metrics/Edward Stratemeyer___For the Liberty of Texas.txt
+filepath data/metrics/Baronness Orczy___Lord Tony's Wife.txt
+filepath data/metrics/Oscar Wilde___The Picture of Dorian Gray.txt
+filepath data/metrics/Jacob Abbott___Richard I.txt
+filepath data/metrics/Lord Tennyson___Idylls of the King.txt
+filepath data/metrics/Mark Twain___The Innocents Abroad.txt
+filepath data/metrics/William Somerset Maugham___The Hero.txt
+filepath data/metrics/James Joyce___Dubliners.txt
+filepath data/metrics/Edward Phillips Oppenheim___Nobody's Man.txt
+filepath data/metrics/James Fenimore Cooper___A Residence in France.txt
+filepath data/metrics/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 04 (of 12).txt
+filepath data/metrics/Sinclair Lewis___The Job.txt
+filepath data/metrics/Walt Whitman___Complete Prose Works.txt
+filepath data/metrics/Lyman Frank Baum___The Marvellous Land of Oz.txt
+filepath data/metrics/Herbert George Wells___The Research Magnificent.txt
+filepath data/metrics/Elizabeth Barrett Browning___The Poetical Works of Elizabeth Barrett Browning Volume IV.txt
+filepath data/metrics/George Alfred Henty___For the Temple.txt
+filepath data/metrics/D H Lawrence___Sea and Sardinia.txt
+filepath data/metrics/Washington Irving___The Adventures of Captain Bonneville.txt
+filepath data/metrics/Anthony Trollope___Barchester Towers.txt
+filepath data/metrics/Edward Phillips Oppenheim___The New Tenant.txt
+filepath data/metrics/Jonathan Swift___The Prose Works of Jonathan Swift, D.D., Volume 4.txt
+filepath data/metrics/George Alfred Henty___At Aboukir and Acre.txt
+filepath data/metrics/Walter de la Mare___Memoirs of a Midget.txt
+filepath data/metrics/Harold Bindloss___Prescott of Saskatchewan.txt
+filepath data/metrics/Anthony Trollope___The Landleaguers.txt
+filepath data/metrics/Charlotte Mary Yonge___Aunt Charlotte's Stories of Greek History.txt
+filepath data/metrics/Henry Rider Haggard___Fair Margaret.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Great Shadow and Other Napoleonic Tales.txt
+filepath data/metrics/William Henry Hudson___Birds in Town and Village.txt
+filepath data/metrics/Andrew Lang___The Library.txt
+filepath data/metrics/Jack London___The Road.txt
+filepath data/metrics/Lewis Carroll___Symbolic Logic.txt
+filepath data/metrics/Robert Southey___Colloquies on Society.txt
+filepath data/metrics/Charlotte Mary Yonge___The Dove in the Eagle's Nest.txt
+filepath data/metrics/Joseph Conrad___The Rescue.txt
+filepath data/metrics/William Wymark Jacobs___Light Freights.txt
+filepath data/metrics/John Milton___Paradise Lost.txt
+filepath data/metrics/Henry Rider Haggard___Cetywayo and his White Neighbours.txt
+filepath data/metrics/Henry James___The Reverberator.txt
+filepath data/metrics/R M Ballantyne___Rivers of Ice.txt
+filepath data/metrics/Joseph Conrad___Under Western Eyes.txt
+filepath data/metrics/John Morley___On Compromise.txt
+filepath data/metrics/Charles Kingsley___Glaucus; or The Wonders of the Shore.txt
+filepath data/metrics/John Morley___Rousseau.txt
+filepath data/metrics/Andrew Lang___In the Wrong Paradise.txt
+filepath data/metrics/Alexander Pope___The Rape of the Lock and Other Poems.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Pawns Count.txt
+filepath data/metrics/R M Ballantyne___The Crew of the Water Wagtail.txt
+filepath data/metrics/Philip Kindred Dick___Mr. Spaceship.txt
+filepath data/metrics/Winston Churchill___Mr. Crewe's Career, Complete.txt
+filepath data/metrics/Charlotte Mary Yonge___Henrietta's Wish.txt
+filepath data/metrics/Samuel Taylor Coleridge___Shakespeare, Ben Jonson, Beaumont and Fletcher.txt
+filepath data/metrics/O Henry___Heart of the West.txt
+filepath data/metrics/William Makepeace Thackeray___The Paris Sketch Book Of Mr. M. A. Titmarsh.txt
+filepath data/metrics/Charlotte Mary Yonge___Life of John Coleridge Patteson.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 16.txt
+filepath data/metrics/Edward Stratemeyer___Dave Porter and the Runaways.txt
+filepath data/metrics/William Dean Howells___A Fearful Responsibility and Other Stories.txt
+filepath data/metrics/Ulysses Grant___Personal Memoirs of U. S. Grant.txt
+filepath data/metrics/George Alfred Henty___On the Pampas.txt
+filepath data/metrics/D H Lawrence___The Lost Girl.txt
+filepath data/metrics/R M Ballantyne___Freaks on the Fells.txt
+filepath data/metrics/John Morley___The Life of William Ewart Gladstone (Vol 1 of 3).txt
+filepath data/metrics/Charles Dickens___Great Expectations.txt
+filepath data/metrics/Mark Twain___Adventures of Huckleberry Finn, Complete.txt
+filepath data/metrics/Edward Stratemeyer___Marching on Niagara.txt
+filepath data/metrics/Grant Allen___Hilda Wade.txt
+filepath data/metrics/George Eliot___Impressions of Theophrastus Such.txt
+filepath data/metrics/William Wymark Jacobs___The Skipper’s Wooing, and The Brown Man’s Servant.txt
+filepath data/metrics/Bret Harte___From Sand Hill to Pine.txt
+filepath data/metrics/John Dryden___The Poetical Works of John Dryden, Volume 2.txt
+filepath data/metrics/William Dean Howells___Imaginary Interviews.txt
+filepath data/metrics/Henry Rider Haggard___Ayesha.txt
+filepath data/metrics/Sir Arthur Conan Doyle___Danger! and Other Stories.txt
+filepath data/metrics/Winston Churchill___The Inside of the Cup, Complete.txt
+filepath data/metrics/Rudyard Kipling___Life's Handicap.txt
+filepath data/metrics/Rafael Sabatini___The Trampling of the Lilies.txt
+filepath data/metrics/Hector Hugh Munro___The Toys of Peace.txt
+filepath data/metrics/Edgar Rice Burroughs___Tarzan the Untamed.txt
+filepath data/metrics/Nathaniel Hawthorne___Our Old Home.txt
+filepath data/metrics/Wilkie Collins___The Queen of Hearts.txt
+filepath data/metrics/William Wordsworth___The Poetical Works of William Wordsworth, Volume 2.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 7.txt
+filepath data/metrics/Herman Melville___The Confidence-Man.txt
+filepath data/metrics/William Wymark Jacobs___Dialstone Lane.txt
+filepath data/metrics/Bret Harte___Clarence.txt
+filepath data/metrics/Zane Grey___Tales of lonely trails.txt
+filepath data/metrics/Jonathan Swift___A Tale of a Tub.txt
+filepath data/metrics/Wilkie Collins___The Woman in White.txt
+filepath data/metrics/George Eliot___Scenes of Clerical Life.txt
+filepath data/metrics/Frank Richard Stockton___The House of Martha.txt
+filepath data/metrics/Frank Richard Stockton___Buccaneers and Pirates of Our Coasts.txt
+filepath data/metrics/Herbert George Wells___A Modern Utopia.txt
+filepath data/metrics/Harold Bindloss___The Mistress of Bonaventure.txt
+filepath data/metrics/Sir Richard Francis Burton___Vikram and the Vampire.txt
+filepath data/metrics/Edgar Allan Poe___The Works of Edgar Allan Poe Volume 1.txt
+
+filepath data/metrics/John Milton___Milton's Comus.txt
+filepath data/metrics/Andrew Lang___The Arabian Nights Entertainments.txt
+filepath data/metrics/James Matthew Barrie___Auld Licht Idylls.txt
+filepath data/metrics/William Dean Howells___Boy Life.txt
+filepath data/metrics/R M Ballantyne___The Battery and the Boiler.txt
+filepath data/metrics/Rafael Sabatini___The Sea-Hawk.txt
+filepath data/metrics/Andrew Lang___A Monk of Fife.txt
+filepath data/metrics/John Ruskin___Stones of Venice [introductions].txt
+filepath data/metrics/John Galsworthy___Fraternity.txt
+filepath data/metrics/Anthony Trollope___The Warden.txt
+filepath data/metrics/Jack London___Love of Life and Other Stories.txt
+filepath data/metrics/Lord Byron___The Works of Lord Byron: Letters and Journals. Vol. 2.txt
+filepath data/metrics/Harold Bindloss___For Jacinta.txt
+filepath data/metrics/George Alfred Henty___Wulf the Saxon.txt
+filepath data/metrics/Grant Allen___What's Bred In the Bone.txt
+filepath data/metrics/G K Chesterton___A Short History of England.txt
+filepath data/metrics/Sinclair Lewis___Main Street.txt
+filepath data/metrics/G K Chesterton___Tremendous Trifles.txt
+filepath data/metrics/John Stuart Mill___Essays on some unsettled Questions of Political Economy.txt
+filepath data/metrics/Nathaniel Hawthorne___A Wonder Book for Girls & Boys.txt
+filepath data/metrics/Herbert Spencer___Essays: Scientific, Political, & Speculative, Volume I.txt
+filepath data/metrics/Jack London___The Strength of the Strong.txt
+filepath data/metrics/Henry Rider Haggard___The People Of The Mist.txt
+filepath data/metrics/James Fenimore Cooper___Precaution.txt
+filepath data/metrics/James Fenimore Cooper___The Headsman.txt
+filepath data/metrics/James Fenimore Cooper___Ned Myers.txt
+filepath data/metrics/Jane Austen___Sense and Sensibility.txt
+filepath data/metrics/John Dryden___Dryden's Works Vol. 16 (of 18).txt
+filepath data/metrics/George Alfred Henty___With Frederick the Great.txt
+filepath data/metrics/Elizabeth Barrett Browning___The Letters of Elizabeth Barrett Browning (2 of 2).txt
+filepath data/metrics/William Henry Hudson___Fan.txt
+filepath data/metrics/O Henry___Rolling Stones.txt
+filepath data/metrics/Charles Kingsley___Sanitary and Social Lectures and Essays.txt
+filepath data/metrics/Benjamin Disraeli___Alroy.txt
+filepath data/metrics/Frank Richard Stockton___Stories of New Jersey.txt
+filepath data/metrics/Charles Darwin___The Variation of Animals and Plants under Domestication Volume I.txt
+filepath data/metrics/G K Chesterton___Orthodoxy.txt
+filepath data/metrics/William J Long___A Little Brother to the Bear and other Animal Stories.txt
+filepath data/metrics/Nathaniel Hawthorne___Tanglewood Tales.txt
+filepath data/metrics/Sir Arthur Conan Doyle___Memoirs of Sherlock Holmes.txt
+filepath data/metrics/William Wymark Jacobs___Many Cargoes.txt
+filepath data/metrics/Alfred Russel Wallace___Island Life.txt
+filepath data/metrics/Rudyard Kipling___Soldiers Three.txt
+filepath data/metrics/Bret Harte___The Three Partners.txt
+filepath data/metrics/R M Ballantyne___The World of Ice.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Moving Finger.txt
+filepath data/metrics/Jack London___Moon-Face and Other Stories.txt
+filepath data/metrics/Bret Harte___A First Family of Tasajara.txt
+filepath data/metrics/Edward Stratemeyer___The Boy Land Boomer.txt
+filepath data/metrics/Charlotte Mary Yonge___The Chaplet of Pearls.txt
+filepath data/metrics/James Otis___The Minute Boys of York Town.txt
+filepath data/metrics/Louisa May Alcott___Under the Lilacs.txt
+filepath data/metrics/William Dean Howells___The Coast of Bohemia.txt
+filepath data/metrics/George Alfred Henty___A Search For A Secret, a Novel, Volume 1.txt
+filepath data/metrics/Sir Walter Scott___The Dramatic Works of John Dryden, Volume I.txt
+filepath data/metrics/G K Chesterton___Robert Browning.txt
+filepath data/metrics/R M Ballantyne___Blown to Bits.txt
+filepath data/metrics/William Dean Howells___April Hopes.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Malefactor.txt
+filepath data/metrics/Andrew Lang___Custom and Myth.txt
+filepath data/metrics/Harold Bindloss___Northwest!.txt
+filepath data/metrics/John Dryden___Dryden's Works Vol. 2 (of 18).txt
+filepath data/metrics/Charles Darwin___Insectivorous Plants.txt
+filepath data/metrics/Mark Twain___The Tragedy of Pudd'nhead Wilson.txt
+filepath data/metrics/Lyman Frank Baum___Aunt Jane’s Nieces on the Ranch.txt
+filepath data/metrics/Andrew Lang___James VI and the Gowrie Mystery.txt
+filepath data/metrics/William Dean Howells___A Traveler from Altruria.txt
+filepath data/metrics/Edward Stratemeyer___Leo the Circus Boy.txt
+filepath data/metrics/P G Wodehouse___Piccadilly Jim.txt
+filepath data/metrics/G K Chesterton___A Miscellany of Men.txt
+filepath data/metrics/Jonathan Swift___The Poems of Jonathan Swift, D.D., Volume 1.txt
+filepath data/metrics/D H Lawrence___The White Peacock.txt
+filepath data/metrics/Thomas Robert Malthus___The Grounds of an Opinion on the Policy of Restricting the Importation of Foreign Corn.txt
+filepath data/metrics/Washington Irving___Wolfert's Roost and Miscellanies.txt
+filepath data/metrics/William Dean Howells___Modern Italian Poets.txt
+filepath data/metrics/Bret Harte___Susy, A Story of the Plains.txt
+filepath data/metrics/John Stuart Mill___Principles Of Political Economy.txt
+filepath data/metrics/Sir Arthur Conan Doyle___Sir Nigel.txt
+filepath data/metrics/Henry James___A Small Boy and Others.txt
+filepath data/metrics/Herman Melville___Pierre; or The Ambiguities.txt
+filepath data/metrics/Edward Stratemeyer___Dave Porter in the Gold Fields.txt
+filepath data/metrics/Sir Walter Scott___Minstrelsy of the Scottish border (3rd ed) (1 of 3).txt
+filepath data/metrics/Walt Whitman___The Wound Dresser.txt
+filepath data/metrics/Robert Browning___Dramatic Romances.txt
+filepath data/metrics/Wilkie Collins___I Say No.txt
+filepath data/metrics/William Dean Howells___Seven English Cities.txt
+filepath data/metrics/Benjamin Disraeli___Henrietta Temple.txt
+filepath data/metrics/Daniel Defoe___The Fortunes and Misfortunes of the Famous Moll Flanders.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 3.txt
+filepath data/metrics/Charles Kingsley___Prose Idylls.txt
+filepath data/metrics/James Otis___The Search for the Silver City.txt
+filepath data/metrics/Mark Twain___Roughing It.txt
+filepath data/metrics/Ulysses Grant___State of the Union Addresses of Ulysses S. Grant.txt
+filepath data/metrics/James Otis___The Princess and Joe Potter.txt
+filepath data/metrics/James Fenimore Cooper___Autobiography of a Pocket-Hankerchief.txt
+filepath data/metrics/Herbert George Wells___The History of Mr. Polly.txt
+filepath data/metrics/John Ruskin___The Stones of Venice, Volume III (of 3).txt
+filepath data/metrics/Harold Bindloss___Hawtrey's Deputy.txt
+filepath data/metrics/Lucy Maud Montgomery___Chronicles of Avonlea.txt
+filepath data/metrics/Charlotte Mary Yonge___Countess Kate.txt
+filepath data/metrics/Sir Francis Galton___Inquiries into Human Faculty and Its Development.txt
+filepath data/metrics/Washington Irving___The Crayon Papers.txt
+filepath data/metrics/Baronness Orczy___The Laughing Cavalier.txt
+filepath data/metrics/Henry Rider Haggard___Nada the Lily.txt
+filepath data/metrics/John Ruskin___Letters to the Clergy.txt
+filepath data/metrics/Edward Phillips Oppenheim___Jacob's Ladder.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Devil's Paw.txt
+filepath data/metrics/William Dean Howells___Dr. Breen's Practice.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Golden Web.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Zeppelin's Passenger.txt
+filepath data/metrics/Anthony Trollope___Miss Mackenzie.txt
+filepath data/metrics/Herbert George Wells___The World Set Free.txt
+filepath data/metrics/Thomas Henry Huxley___Hume.txt
+filepath data/metrics/Harold Bindloss___Vane of the Timberlands.txt
+filepath data/metrics/Jack London___Jerry of the Islands.txt
+filepath data/metrics/Robert Louis Stevenson___The Dynamiter.txt
+filepath data/metrics/Sir Arthur Conan Doyle___Beyond the City.txt
+filepath data/metrics/Anthony Trollope___Dr. Wortle's School.txt
+
+filepath data/metrics/Rudyard Kipling___The Kipling Reader.txt
+filepath data/metrics/Bret Harte___Mrs. Skaggs's Husbands and Other Stories.txt
+filepath data/metrics/Thomas Hardy___Tess of the d'Urbervilles.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 15.txt
+filepath data/metrics/Henry James___The Finer Grain.txt
+filepath data/metrics/Robert Louis Stevenson___Island Nights' Entertainments.txt
+filepath data/metrics/James Fenimore Cooper___The Last of the Mohicans.txt
+filepath data/metrics/R M Ballantyne___The Ocean and its Wonders.txt
+filepath data/metrics/William Makepeace Thackeray___Henry Esmond; The English Humourists; The Four Georges.txt
+filepath data/metrics/Grant Allen___Charles Darwin.txt
+filepath data/metrics/Henry Rider Haggard___The Brethren.txt
+filepath data/metrics/Bret Harte___Drift from Two Shores.txt
+filepath data/metrics/George Alfred Henty___By Sheer Pluck.txt
+filepath data/metrics/Sir Walter Scott___Marmion.txt
+filepath data/metrics/Joseph Conrad___The Secret Agent.txt
+filepath data/metrics/William Makepeace Thackeray___Barry Lyndon.txt
+filepath data/metrics/Charles Kingsley___The Hermits.txt
+filepath data/metrics/James Fenimore Cooper___The Deerslayer.txt
+filepath data/metrics/Sir Walter Scott___The Journal of Sir Walter Scott.txt
+filepath data/metrics/R M Ballantyne___Six Months at the Cape.txt
+filepath data/metrics/Benjamin Franklin___Autobiography of Benjamin Franklin, Version 4.txt
+filepath data/metrics/Anthony Trollope___Thackeray.txt
+filepath data/metrics/Abraham Lincoln___Speeches and Letters of Abraham Lincoln, 1832-1865.txt
+filepath data/metrics/Robert Louis Stevenson___Weir of Hermiston.txt
+filepath data/metrics/Henry David Thoreau___A Week on the Concord and Merrimack Rivers.txt
+filepath data/metrics/Andrew Lang___The Lilac Fairy Book.txt
+filepath data/metrics/Daniel Defoe___The Life, Adventures & Piracies of the Famous Captain Singleton.txt
+filepath data/metrics/Lord Byron___The Works of Lord Byron. Vol. 2.txt
+filepath data/metrics/John Ruskin___The Elements of Drawing.txt
+filepath data/metrics/Howard Pyle___Men of Iron.txt
+filepath data/metrics/Lyman Frank Baum___Glinda of Oz.txt
+filepath data/metrics/Jerome Klapka Jerome___All Roads Lead to Calvary.txt
+filepath data/metrics/Wilkie Collins___Poor Miss Finch.txt
+filepath data/metrics/Sir Winston Churchill___The Story of the Malakand Field Force.txt
+filepath data/metrics/William Dean Howells___Of Literature.txt
+filepath data/metrics/William Dean Howells___Their Wedding Journey.txt
+filepath data/metrics/Ambrose Bierce___The Collected Works of Ambrose Bierce, Volume 8.txt
+filepath data/metrics/Howard Pyle___The Merry Adventures of Robin Hood.txt
+filepath data/metrics/William J Long___Wood Folk at School.txt
+filepath data/metrics/Ralph Waldo Emerson___Poems.txt
+filepath data/metrics/Jack London___The Cruise of the Snark.txt
+filepath data/metrics/Nathaniel Hawthorne___Little Masterpieces.txt
+filepath data/metrics/Jerome Klapka Jerome___Idle Thoughts of an Idle Fellow.txt
+filepath data/metrics/William Makepeace Thackeray___Burlesques.txt
+filepath data/metrics/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 11 (of 12).txt
+filepath data/metrics/Virginia Woolf___Jacob's Room.txt
+filepath data/metrics/William Somerset Maugham___The Making of a Saint.txt
+filepath data/metrics/Jacob Abbott___King Alfred of England.txt
+filepath data/metrics/Charlotte Mary Yonge___Two Penniless Princesses.txt
+filepath data/metrics/George Alfred Henty___The Young Buglers.txt
+filepath data/metrics/Charles Kingsley___Town and Country Sermons.txt
+filepath data/metrics/Edgar Rice Burroughs___Tarzan of the Apes.txt
+filepath data/metrics/Henry Rider Haggard___Stella Fregelius.txt
+filepath data/metrics/Lord Byron___Don Juan.txt
+filepath data/metrics/Edgar Allan Poe___The Works of Edgar Allan Poe Volume 2.txt
+filepath data/metrics/Sir Francis Galton___The Art of Travel.txt
+filepath data/metrics/Anthony Trollope___The Way We Live Now.txt
+filepath data/metrics/Rafael Sabatini___The Suitors of Yvonne.txt
+filepath data/metrics/Jacob Abbott___Xerxes.txt
+filepath data/metrics/George Alfred Henty___In the Reign of Terror.txt
+filepath data/metrics/Daniel Defoe___The Complete English Tradesman (1839 ed.).txt
+filepath data/metrics/James Bowker___Goblin Tales of Lancashire.txt
+filepath data/metrics/Charlotte Mary Yonge___The Little Duke.txt
+filepath data/metrics/Herbert George Wells___The Sea Lady.txt
+filepath data/metrics/Joseph Conrad___Lord Jim.txt
+filepath data/metrics/Jacob Abbott___Marco Paul's Voyages and Travels; Vermont.txt
+filepath data/metrics/Benjamin Disraeli___Tancred.txt
+filepath data/metrics/Henry Rider Haggard___Colonel Quaritch, V.C.txt
+filepath data/metrics/P G Wodehouse___The Adventures of Sally.txt
+filepath data/metrics/Mark Twain___Sketches New and Old, Complete.txt
+filepath data/metrics/Henry James___The Wings of the Dove, Volume 2.txt
+filepath data/metrics/William Wymark Jacobs___At Sunwich Port.txt
+filepath data/metrics/George Alfred Henty___In The Heart Of The Rockies.txt
+filepath data/metrics/Wilkie Collins___Blind Love.txt
+filepath data/metrics/Louisa May Alcott___Work: A Story of Experience.txt
+filepath data/metrics/James Matthew Barrie___My Lady Nicotine.txt
+filepath data/metrics/Mark Twain___The Adventures of Tom Sawyer, Complete.txt
+filepath data/metrics/Bret Harte___The Story of a Mine.txt
+filepath data/metrics/Edward Stratemeyer___Young Hunters of the Lake.txt
+filepath data/metrics/Lord Byron___The Works of Lord Byron. Vol. 7.txt
+filepath data/metrics/Herbert George Wells___The Sleeper Awakes.txt
+filepath data/metrics/Wilkie Collins___A Rogue's Life.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 14.txt
+filepath data/metrics/Henry James___The Tragic Muse.txt
+filepath data/metrics/Stephen Leacock___Arcadian Adventures with the Idle Rich.txt
+filepath data/metrics/Lyman Frank Baum___Dorothy and the Wizard in Oz.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 10.txt
+filepath data/metrics/John Ruskin___Proserpina, Volume 1.txt
+filepath data/metrics/Charles Dickens___Master Humphrey's Clock.txt
+filepath data/metrics/William Henry Hudson___A Shepherd's Life.txt
+filepath data/metrics/Charlotte Mary Yonge___The Two Sides of the Shield.txt
+filepath data/metrics/Louisa May Alcott___The Louisa Alcott Reader.txt
+filepath data/metrics/Alexander Pope___The Poetical Works of Alexander Pope, Volume 1.txt
+filepath data/metrics/G K Chesterton___The Ball and The Cross.txt
+filepath data/metrics/Charlotte Mary Yonge___Friarswood Post-Office.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 11.txt
+filepath data/metrics/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 09 (of 12).txt
+filepath data/metrics/Jack London___Martin Eden.txt
+filepath data/metrics/Ralph Waldo Emerson___Essays.txt
+filepath data/metrics/George Eliot___Middlemarch.txt
+filepath data/metrics/George Alfred Henty___In Freedom's Cause.txt
+filepath data/metrics/Charles Kingsley___Hereward, The Last of the English.txt
+filepath data/metrics/Henry Rider Haggard___Marie.txt
+filepath data/metrics/George Alfred Henty___The Boy Knight.txt
+filepath data/metrics/Sir Walter Scott___The Lady of the Lake.txt
+filepath data/metrics/George Alfred Henty___A Search For A Secret, a Novel, Volume 2.txt
+filepath data/metrics/Charles Kingsley___The Saint's Tragedy.txt
+filepath data/metrics/Wilkie Collins___Heart and Science.txt
+filepath data/metrics/Winston Churchill___The Celebrity, Complete.txt
+filepath data/metrics/Rudyard Kipling___Kim.txt
+filepath data/metrics/Anthony Trollope___The Bertrams.txt
+filepath data/metrics/Rafael Sabatini___The Strolling Saint.txt
+filepath data/metrics/Henry Rider Haggard___The Wanderer's Necklace.txt
+filepath data/metrics/G K Chesterton___All Things Considered.txt
+filepath data/metrics/Frank Richard Stockton___The Casting Away of Mrs. Lecks and Mrs. Aleshine.txt
+filepath data/metrics/Frank Richard Stockton___Kate Bonnet.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Hillman.txt
+
+filepath data/metrics/Herbert George Wells___Tales of Space and Time.txt
+filepath data/metrics/Edward Stratemeyer___Dave Porter At Bear Camp.txt
+filepath data/metrics/George Alfred Henty___Through the Fray.txt
+filepath data/metrics/Louisa May Alcott___An Old-fashioned Girl.txt
+filepath data/metrics/Louisa May Alcott___Comic Tragedies.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Captain of the Pole-Star and Other Tales.txt
+filepath data/metrics/John Galsworthy___To Let.txt
+filepath data/metrics/George Bernard Shaw___Heartbreak House.txt
+filepath data/metrics/Washington Irving___Knickerbocker's History of New York.txt
+filepath data/metrics/Louisa May Alcott___A Garland for Girls.txt
+filepath data/metrics/George Alfred Henty___Through Three Campaigns.txt
+filepath data/metrics/George Bernard Shaw___A Treatise on Parents and Children.txt
+filepath data/metrics/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 02 (of 12).txt
+filepath data/metrics/Ambrose Bierce___Cobwebs From an Empty Skull.txt
+filepath data/metrics/Harold Bindloss___Ranching for Sylvia.txt
+filepath data/metrics/Jack London___Burning Daylight.txt
+filepath data/metrics/Jack London___Children of the Frost.txt
+filepath data/metrics/Charlotte Mary Yonge___My Young Alcides.txt
+filepath data/metrics/Charlotte Mary Yonge___Young Folks' History of Rome.txt
+filepath data/metrics/Edward Stratemeyer___Dave Porter and His Rivals.txt
+filepath data/metrics/George Alfred Henty___By Pike and Dyke:  A Tale of the Rise of the Dutch Republic.txt
+filepath data/metrics/John Ruskin___A Joy For Ever.txt
+filepath data/metrics/Edward Phillips Oppenheim___Mr. Marx's Secret.txt
+filepath data/metrics/Frank Richard Stockton___The Adventures of Captain Horn.txt
+filepath data/metrics/Henry James___Lady Barbarina.txt
+filepath data/metrics/Charles Dickens___American Notes for General Circulation.txt
+filepath data/metrics/Nathaniel Hawthorne___The Scarlet Letter.txt
+filepath data/metrics/Bret Harte___Mr. Jack Hamlin's Mediation and Other Stories.txt
+filepath data/metrics/Oscar Wilde___Miscellanies.txt
+filepath data/metrics/Robert Louis Stevenson___Across The Plains.txt
+filepath data/metrics/G K Chesterton___What I Saw in America.txt
+filepath data/metrics/Andrew Lang___Adventures among Books.txt
+filepath data/metrics/Jacob Abbott___Romulus.txt
+filepath data/metrics/Charles Dickens___The Old Curiosity Shop.txt
+filepath data/metrics/Charles Dickens___Our Mutual Friend.txt
+filepath data/metrics/Wilkie Collins___The Fallen Leaves.txt
+filepath data/metrics/R M Ballantyne___Man on the Ocean.txt
+filepath data/metrics/Herbert George Wells___Twelve Stories and a Dream.txt
+filepath data/metrics/Baronness Orczy___The Elusive Pimpernel.txt
+filepath data/metrics/Nathaniel Hawthorne___Passages from the American Notebooks, Volume 1.txt
+filepath data/metrics/Anthony Trollope___Mr. Scarborough's Family.txt
+filepath data/metrics/Harold Bindloss___The Dust of Conflict.txt
+filepath data/metrics/John Bunyan___The Works of John Bunyan.txt
+filepath data/metrics/Edward Stratemeyer___Dave Porter and His Double.txt
+filepath data/metrics/George Alfred Henty___A Final Reckoning.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 13.txt
+filepath data/metrics/P G Wodehouse___The Intrusion of Jimmy.txt
+filepath data/metrics/Alexander Pope___The Poetical Works of Alexander Pope, Volume 2.txt
+filepath data/metrics/Henry David Thoreau___Walden, and On The Duty Of Civil Disobedience.txt
+filepath data/metrics/Edgar Rice Burroughs___The Outlaw of Torn.txt
+filepath data/metrics/Anthony Trollope___North America Volume 2.txt
+filepath data/metrics/Sir Richard Francis Burton___To the Gold Coast for Gold, Volume 1.txt
+filepath data/metrics/Ambrose Bierce___The Collected Works of Ambrose Bierce, Volume 1.txt
+filepath data/metrics/Frank Richard Stockton___Rudder Grange.txt
+filepath data/metrics/John Ruskin___The Seven Lamps of Architecture.txt
+filepath data/metrics/G K Chesterton___Manalive.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Kingdom of the Blind.txt
+filepath data/metrics/Edward Stratemeyer___Fighting in Cuban Waters.txt
+filepath data/metrics/Edgar Allan Poe___Edgar Allan Poe's Complete Poetical Works.txt
+filepath data/metrics/Oscar Wilde___Intentions.txt
+filepath data/metrics/John Dryden___Dryden's Works Vol. 6 (of 18).txt
+filepath data/metrics/James Fenimore Cooper___The Crater.txt
+filepath data/metrics/Edward Stratemeyer___The Mystery at Putnam Hall.txt
+filepath data/metrics/Louisa May Alcott___Spinning-Wheel Stories.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Lost Ambassador.txt
+filepath data/metrics/Harriet Elizabeth Beecher Stowe___Household Papers and Stories.txt
+filepath data/metrics/James Fenimore Cooper___The Chainbearer.txt
+filepath data/metrics/Lyman Frank Baum___The Scarecrow of Oz.txt
+filepath data/metrics/Sir Arthur Conan Doyle___A Duet.txt
+filepath data/metrics/Howard Pyle___The Story of the Champions of the Round Table.txt
+filepath data/metrics/Henry James___The Bostonians, Volume 1.txt
+filepath data/metrics/G K Chesterton___Eugenics and Other Evils.txt
+filepath data/metrics/Bret Harte___A Sappho of Green Springs.txt
+filepath data/metrics/Zane Grey___The Call of the Canyon.txt
+filepath data/metrics/William Makepeace Thackeray___The Christmas Books.txt
+filepath data/metrics/Edward Stratemeyer___Richard Dare's Venture.txt
+filepath data/metrics/Jack London___The Turtles of Tasman.txt
+filepath data/metrics/Anthony Trollope___La Vendée.txt
+filepath data/metrics/Henry Rider Haggard___Doctor Therne.txt
+filepath data/metrics/Jerome Klapka Jerome___Sketches in Lavender, Blue and Green.txt
+filepath data/metrics/Rudyard Kipling___The Second Jungle Book.txt
+filepath data/metrics/P G Wodehouse___A Prefect's Uncle.txt
+filepath data/metrics/Jack London___On the Makaloa Mat.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Double Life Of Mr. Alfred Burton.txt
+filepath data/metrics/Baronness Orczy___A Bride of the Plains.txt
+filepath data/metrics/Daniel Defoe___Tour through the Eastern Counties of England, 1722.txt
+filepath data/metrics/John Galsworthy___The Complete Essays of John Galsworthy.txt
+filepath data/metrics/George Alfred Henty___Under Drake's Flag.txt
+filepath data/metrics/Hamlin Garland___Money Magic.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Adventures of Gerard.txt
+filepath data/metrics/Zane Grey___The Young Pitcher.txt
+filepath data/metrics/Anthony Trollope___Autobiography of Anthony Trollope.txt
+filepath data/metrics/James Russell Lowell___Poems of James Russell Lowell.txt
+filepath data/metrics/Mark Twain___The Man That Corrupted Hadleyburg and Other Stories.txt
+filepath data/metrics/Abraham Lincoln___The Writings of Abraham Lincoln, Volume 6: 1862-1863.txt
+filepath data/metrics/Jacob Abbott___Queen Elizabeth.txt
+filepath data/metrics/Abraham Lincoln___The Writings of Abraham Lincoln, Volume 3.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 6.txt
+filepath data/metrics/Sir Walter Scott___Peveril of the Peak.txt
+filepath data/metrics/Robert Louis Stevenson___New Arabian Nights.txt
+filepath data/metrics/Hector Hugh Munro___The Unbearable Bassington.txt
+filepath data/metrics/Edgar Rice Burroughs___Jungle Tales of Tarzan.txt
+filepath data/metrics/Lyman Frank Baum___Aunt Jane's Nieces.txt
+filepath data/metrics/Thomas Hardy___Desperate Remedies.txt
+filepath data/metrics/Lyman Frank Baum___The Road to Oz.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 12.txt
+filepath data/metrics/Winston Churchill___The Crossing.txt
+filepath data/metrics/Ambrose Bierce___The Fiend's Delight.txt
+filepath data/metrics/Virginia Woolf___Night and Day.txt
+filepath data/metrics/Hamlin Garland___Cavanaugh: Forest Ranger.txt
+filepath data/metrics/Robert Louis Stevenson___Tales and Fantasies.txt
+filepath data/metrics/Harold Bindloss___Alton of Somasco.txt
+filepath data/metrics/Jack London___The Iron Heel.txt
+filepath data/metrics/George Alfred Henty___The Lost Heir.txt
+filepath data/metrics/Baronness Orczy___The Tangled Skein.txt
+
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 20.txt
+filepath data/metrics/Joseph Conrad___Some Reminiscences.txt
+filepath data/metrics/Zane Grey___The Day of the Beast.txt
+filepath data/metrics/Charlotte Mary Yonge___Nuttie's Father.txt
+filepath data/metrics/William Henry Hudson___The Purple Land.txt
+filepath data/metrics/William Dean Howells___Questionable Shapes.txt
+filepath data/metrics/William Dean Howells___The Quality of Mercy.txt
+filepath data/metrics/Herbert George Wells___An Englishman Looks at the World.txt
+filepath data/metrics/Charles Kingsley___Scientific Essays and Lectures.txt
+filepath data/metrics/John Morley___Studies in Literature.txt
+filepath data/metrics/Charlotte Mary Yonge___Scenes and Characters.txt
+filepath data/metrics/Nathaniel Hawthorne___From Twice Told Tales.txt
+filepath data/metrics/William Dean Howells___The Landlord at Lion's Head.txt
+filepath data/metrics/George Eliot___The Mill on the Floss.txt
+filepath data/metrics/Mark Twain___Mark Twain's Speeches.txt
+filepath data/metrics/Jacob Abbott___The Teacher.txt
+filepath data/metrics/Lyman Frank Baum___Tik-Tok of Oz.txt
+filepath data/metrics/Charlotte Bronte___Villette.txt
+filepath data/metrics/John Ruskin___Sesame and Lilies.txt
+filepath data/metrics/Charles Kingsley___The Water-Babies.txt
+filepath data/metrics/Henry James___The Wings of the Dove, Volume 1.txt
+filepath data/metrics/Sir Walter Scott___Bride of Lammermoor.txt
+filepath data/metrics/Stephen Leacock___Literary Lapses.txt
+filepath data/metrics/Anthony Trollope___Linda Tressel.txt
+filepath data/metrics/R M Ballantyne___The Rover of the Andes.txt
+filepath data/metrics/R M Ballantyne___Dusty Diamonds Cut and Polished.txt
+filepath data/metrics/John Galsworthy___The Country House.txt
+filepath data/metrics/Bret Harte___A Protegee of Jack Hamlin's and Other Stories.txt
+filepath data/metrics/Henry Rider Haggard___King Solomon's Mines.txt
+filepath data/metrics/Charlotte Mary Yonge___Modern Broods.txt
+filepath data/metrics/Wilkie Collins___My Lady's Money.txt
+filepath data/metrics/John Ruskin___The Stones of Venice, Volume I (of 3).txt
+filepath data/metrics/William Dean Howells___Literary Friends And Acquaintances.txt
+filepath data/metrics/Harriet Elizabeth Beecher Stowe___The May Flower, and Miscellaneous Writings.txt
+filepath data/metrics/Harold Bindloss___Blake's Burden.txt
+filepath data/metrics/Jack London___Revolution and Other Essays.txt
+filepath data/metrics/Grant Allen___Philistia.txt
+filepath data/metrics/James Fenimore Cooper___Recollections of Europe.txt
+filepath data/metrics/Charles Dickens___The Letters of Charles Dickens Volume 2.txt
+filepath data/metrics/Zane Grey___The Last Trail.txt
+filepath data/metrics/Washington Irving___Abbotsford and Newstead Abbey.txt
+filepath data/metrics/Andrew Lang___A Short History of Scotland.txt
+filepath data/metrics/Herbert George Wells___Certain Personal Matters.txt
+filepath data/metrics/R M Ballantyne___Red Rooney.txt
+filepath data/metrics/Lord Byron___The Works of Lord Byron. Vol. 5.txt
+filepath data/metrics/Joseph Conrad___Tales of Unrest.txt
+filepath data/metrics/Anthony Trollope___The Belton Estate.txt
+filepath data/metrics/Harold Bindloss___Lister's Great Adventure.txt
+filepath data/metrics/John Galsworthy___The Freelands.txt
+filepath data/metrics/Sir Arthur Conan Doyle___Uncle Bernac.txt
+filepath data/metrics/Herbert George Wells___The Secret Places of the Heart.txt
+filepath data/metrics/Bret Harte___In a Hollow of the Hills.txt
+filepath data/metrics/George Alfred Henty___By Right of Conquest.txt
+filepath data/metrics/Rudyard Kipling___Letters of Travel (1892-1913).txt
+filepath data/metrics/Thomas Hardy___A Pair of Blue Eyes.txt
+filepath data/metrics/Louisa May Alcott___Little Women.txt
+filepath data/metrics/Herman Melville___White Jacket.txt
+filepath data/metrics/Lyman Frank Baum___The Sea Fairies.txt
+filepath data/metrics/Edmund Burke___Selections from the Speeches and Writings of Edmund Burke.txt
+filepath data/metrics/Hamlin Garland___They of the High Trails.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 9.txt
+filepath data/metrics/Thomas Hardy___A Changed Man and Other Tales.txt
+filepath data/metrics/Charles Darwin___The Different Forms of Flowers on Plants of the Same Species.txt
+filepath data/metrics/Henry Rider Haggard___Mr. Meeson's Will.txt
+filepath data/metrics/Harold Bindloss___Johnstone of the Border.txt
+filepath data/metrics/R M Ballantyne___Philosopher Jack.txt
+filepath data/metrics/Jonathan Swift___The Battle of the Books.txt
+filepath data/metrics/R M Ballantyne___The Walrus Hunters.txt
+filepath data/metrics/Elizabeth Barrett Browning___The Poetical Works of Elizabeth Barrett Browning Volume II.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 9.txt
+filepath data/metrics/Lyman Frank Baum___Aunt Jane's Nieces in Society.txt
+filepath data/metrics/John Stuart Mill___Auguste Comte and Positivism.txt
+filepath data/metrics/Mary Stewart Daggett___Mariposilla.txt
+filepath data/metrics/Samuel Taylor Coleridge___The Complete Poetical Works of Samuel Taylor Coleridge.txt
+filepath data/metrics/Grant Allen___Post-Prandial Philosophy.txt
+filepath data/metrics/Joseph Conrad___Notes on Life and Letters.txt
+filepath data/metrics/Lyman Frank Baum___Rinkitink in Oz.txt
+filepath data/metrics/Lyman Frank Baum___Aunt Jane's Nieces at Work.txt
+filepath data/metrics/Samuel Taylor Coleridge___Biographia Literaria.txt
+filepath data/metrics/P G Wodehouse___Three Men and a Maid.txt
+filepath data/metrics/Rudyard Kipling___Indian Tales.txt
+filepath data/metrics/Edgar Allan Poe___Eureka.txt
+filepath data/metrics/Rudyard Kipling___Captains Courageous.txt
+filepath data/metrics/Robert Burns___The Letters of Robert Burns.txt
+filepath data/metrics/Grant Allen___Falling in Love.txt
+filepath data/metrics/George Alfred Henty___The Lion of Saint Mark.txt
+filepath data/metrics/Andrew Lang___A Collection of Ballads.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys at School.txt
+filepath data/metrics/Thomas Henry Huxley___Autobiography and Selected Essays.txt
+filepath data/metrics/George Bernard Shaw___Getting Married.txt
+filepath data/metrics/Sir Arthur Conan Doyle___A Study In Scarlet.txt
+filepath data/metrics/Herbert George Wells___In the Days of the Comet.txt
+filepath data/metrics/George Alfred Henty___With Moore At Corunna.txt
+filepath data/metrics/Elizabeth Barrett Browning___The Poetical Works of Elizabeth Barrett Browning Volume I.txt
+filepath data/metrics/Charles Kingsley___The Heroes.txt
+filepath data/metrics/Charles Dickens___A Tale of Two Cities.txt
+filepath data/metrics/Edward Stratemeyer___On the Trail of Pontiac.txt
+filepath data/metrics/Herbert George Wells___A Short History of the World.txt
+filepath data/metrics/Bret Harte___Stories in Light and Shadow.txt
+filepath data/metrics/Lucy Maud Montgomery___Lucy Maud Montgomery Short Stories, 1896 to 1901.txt
+filepath data/metrics/Harold Bindloss___Wyndham's Pal.txt
+filepath data/metrics/Bret Harte___The Bell-Ringer of Angel's and Other Stories.txt
+filepath data/metrics/Henry James___Washington Square.txt
+filepath data/metrics/Charlotte Mary Yonge___A Book of Golden Deeds.txt
+filepath data/metrics/Thomas Henry Huxley___Essays Upon Some Controverted Questions.txt
+filepath data/metrics/Nathaniel Hawthorne___The Marble Faun, Volume 2.txt
+filepath data/metrics/P G Wodehouse___A Damsel in Distress.txt
+filepath data/metrics/R M Ballantyne___Black Ivory.txt
+filepath data/metrics/Harold Bindloss___The Buccaneer Farmer.txt
+filepath data/metrics/William Dean Howells___A Hazard of New Fortunes.txt
+filepath data/metrics/Charlotte Mary Yonge___The Three Brides.txt
+filepath data/metrics/Jacob Abbott___Cyrus the Great.txt
+filepath data/metrics/Mark Twain___Life On The Mississippi, Complete.txt
+filepath data/metrics/George Alfred Henty___True to the Old Flag.txt
+filepath data/metrics/Harriet Elizabeth Beecher Stowe___Uncle Tom's Cabin.txt
+filepath data/metrics/Andrew Lang___The Mark Of Cain.txt
+filepath data/metrics/Rudyard Kipling___Rewards and Fairies.txt
+filepath data/metrics/John Ruskin___The Two Paths.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Great Prince Shan.txt
+
+filepath data/metrics/Edgar Rice Burroughs___The Mucker.txt
+filepath data/metrics/Henry Rider Haggard___Queen Sheba's Ring.txt
+filepath data/metrics/Zane Grey___To the Last Man.txt
+filepath data/metrics/William J Long___English Literature.txt
+filepath data/metrics/Thomas Henry Huxley___Darwiniana Essays, Volume 2.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The White Company.txt
+filepath data/metrics/George Alfred Henty___With Lee in Virginia.txt
+filepath data/metrics/Anthony Trollope___An Old Man's Love.txt
+filepath data/metrics/John Ruskin___Lectures on Art.txt
+filepath data/metrics/Charles Kingsley___Westward Ho!.txt
+filepath data/metrics/Lucy Maud Montgomery___Kilmeny of the Orchard.txt
+filepath data/metrics/Rafael Sabatini___Captain Blood.txt
+filepath data/metrics/Edward Stratemeyer___The Campaign of the Jungle.txt
+filepath data/metrics/Alfred Russel Wallace___Contributions to the Theory of Natural Selection.txt
+filepath data/metrics/Henry Rider Haggard___The Virgin of the Sun.txt
+filepath data/metrics/Benjamin Disraeli___Coningsby.txt
+filepath data/metrics/Jacob Abbott___Charles I.txt
+filepath data/metrics/George Alfred Henty___Both Sides the Border.txt
+filepath data/metrics/Robert Hooke___Micrographia.txt
+filepath data/metrics/Harold Bindloss___Winston of the Prairie.txt
+filepath data/metrics/P G Wodehouse___The Gold Bat.txt
+filepath data/metrics/William Dean Howells___The Leatherwood God.txt
+filepath data/metrics/Thomas Carlyle___Early Kings of Norway.txt
+filepath data/metrics/R M Ballantyne___The Dog Crusoe and his Master.txt
+filepath data/metrics/Washington Irving___The Life and Voyages of Christopher Columbus (Vol. II).txt
+filepath data/metrics/Nathaniel Hawthorne___The House of the Seven Gables.txt
+filepath data/metrics/James Otis___The Adventures of a Country Boy at a Country Fair.txt
+filepath data/metrics/Rafael Sabatini___The Tavern Knight.txt
+filepath data/metrics/Bret Harte___Openings in the Old Trail.txt
+filepath data/metrics/Thornton Waldo Burgess___The Burgess Animal Book for Children.txt
+filepath data/metrics/Rudyard Kipling___The Works of Rudyard Kipling One Volume Edition.txt
+filepath data/metrics/James Otis___Teddy and Carrots.txt
+filepath data/metrics/Henry James___The Europeans.txt
+filepath data/metrics/George Alfred Henty___A Girl of the Commune.txt
+filepath data/metrics/Rudyard Kipling___The Jungle Book.txt
+filepath data/metrics/Edward Stratemeyer___Guns And Snowshoes.txt
+filepath data/metrics/Rudyard Kipling___Plain Tales from the Hills.txt
+filepath data/metrics/R M Ballantyne___The Floating Light of the Goodwin Sands.txt
+filepath data/metrics/John Morley___The Life of William Ewart Gladstone (Vol 2 of 3).txt
+filepath data/metrics/William Wymark Jacobs___Odd Craft.txt
+filepath data/metrics/Edgar Rice Burroughs___A Princess of Mars.txt
+filepath data/metrics/George Alfred Henty___On the Irrawaddy.txt
+filepath data/metrics/Daniel Defoe___The Life and Most Surprising Adventures of Robinson Crusoe.txt
+filepath data/metrics/Oscar Wilde___Lord Arthur Savile's Crime and Other Stories.txt
+filepath data/metrics/Henry Rider Haggard___Allan's Wife.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 24.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 6.txt
+filepath data/metrics/Harold Bindloss___The Cattle-Baron's Daughter.txt
+filepath data/metrics/Nathaniel Hawthorne___The Marble Faun, Volume 1.txt
+filepath data/metrics/Daniel Defoe___The History of the Devil.txt
+filepath data/metrics/D H Lawrence___Twilight in Italy.txt
+filepath data/metrics/Herbert George Wells___The Wife of Sir Isaac Harman.txt
+filepath data/metrics/James Fenimore Cooper___The Bravo.txt
+filepath data/metrics/John Galsworthy___The Dark Flower.txt
+filepath data/metrics/R M Ballantyne___Erling the Bold.txt
+filepath data/metrics/George Bernard Shaw___The Irrational Knot.txt
+filepath data/metrics/Andrew Lang___Tales of Troy and Greece.txt
+filepath data/metrics/Jerome Klapka Jerome___Novel Notes.txt
+filepath data/metrics/James Matthew Barrie___A Window in Thrums.txt
+filepath data/metrics/William Wymark Jacobs___Sea Urchins.txt
+filepath data/metrics/Herbert George Wells___Ann Veronica.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 19.txt
+filepath data/metrics/Andrew Lang___The Blue Fairy Book.txt
+filepath data/metrics/James Matthew Barrie___Peter Pan.txt
+filepath data/metrics/Harold Bindloss___The Lure of the North.txt
+filepath data/metrics/Charlotte Mary Yonge___A Modern Telemachus.txt
+filepath data/metrics/Andrew Lang___Lost Leaders.txt
+filepath data/metrics/William Henry Hudson___A Traveller in Little Things.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys in the Air.txt
+filepath data/metrics/John Ruskin___Val d'Arno.txt
+filepath data/metrics/Jane Austen___Persuasion.txt
+filepath data/metrics/William Wymark Jacobs___A Master of Craft.txt
+filepath data/metrics/Washington Irving___Bracebridge Hall, or The Humorists.txt
+filepath data/metrics/G K Chesterton___The Wisdom of Father Brown.txt
+filepath data/metrics/John Dryden___Dryden's Works Vol. 4 (of 18).txt
+filepath data/metrics/Rudyard Kipling___The Phantom Rickshaw and Other Ghost Stories.txt
+filepath data/metrics/William Wymark Jacobs___Ship's Company.txt
+filepath data/metrics/Charlotte Bronte___The Professor.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys on the Ocean.txt
+filepath data/metrics/William Henry Hudson___Far Away and Long Ago.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Great Keinplatz Experiment and Other Tales of Twilight and the Unseen.txt
+filepath data/metrics/Rafael Sabatini___Love-at-Arms.txt
+filepath data/metrics/Wilkie Collins___Antonina.txt
+filepath data/metrics/Henry Rider Haggard___Pearl-Maiden.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Traitors.txt
+filepath data/metrics/Nathaniel Hawthorne___Passages From the English Notebooks.txt
+filepath data/metrics/R M Ballantyne___Under the Waves.txt
+filepath data/metrics/William Dean Howells___A Boy's Town.txt
+filepath data/metrics/Nathaniel Hawthorne___Septimius Felton.txt
+filepath data/metrics/Lucy Maud Montgomery___Further Chronicles of Avonlea.txt
+filepath data/metrics/Lyman Frank Baum___Sky Island.txt
+filepath data/metrics/Jacob Abbott___Hannibal.txt
+filepath data/metrics/Sir Isaac Newton___Observations upon the Prophecies of Daniel, and the Apocalypse of St. John.txt
+filepath data/metrics/George Alfred Henty___The Lion of the North.txt
+filepath data/metrics/Winston Churchill___A Far Country, Complete.txt
+filepath data/metrics/George Alfred Henty___The Tiger of Mysore.txt
+filepath data/metrics/George Alfred Henty___Dorothy's Double, Volume 2.txt
+filepath data/metrics/G K Chesterton___The Victorian Age in Literature.txt
+filepath data/metrics/William Henry Hudson___Afoot in England.txt
+filepath data/metrics/O Henry___Whirligigs.txt
+filepath data/metrics/William Makepeace Thackeray___Notes on a Journey from Cornhill to Grand Cairo.txt
+filepath data/metrics/P B Shelley___Adonais.txt
+filepath data/metrics/John Ruskin___Unto This Last and Other Essays on Political Economy.txt
+filepath data/metrics/Hamlin Garland___A Daughter of the Middle Border.txt
+filepath data/metrics/John Maynard Keynes___The Economic Consequences of the Peace.txt
+filepath data/metrics/John Stuart Mill___The Subjection of Women.txt
+filepath data/metrics/John Ruskin___On the Old Road, Vol. 1 (of 2).txt
+filepath data/metrics/George Alfred Henty___A Roving Commission.txt
+filepath data/metrics/George Alfred Henty___With Kitchener in the Soudan.txt
+filepath data/metrics/Thomas Hardy___Two on a Tower.txt
+filepath data/metrics/Edward Stratemeyer___Dave Porter at Star Ranch.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys in New York.txt
+filepath data/metrics/Frank Richard Stockton___The Great Stone of Sardis.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 21.txt
+filepath data/metrics/Charles Darwin___On the Origin of Species 1st Edition.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys In The Mountains.txt
+filepath data/metrics/Thomas Henry Huxley___Discourses.txt
+
+filepath data/metrics/Sir Walter Scott___Letters On Demonology And Witchcraft.txt
+filepath data/metrics/William Dean Howells___Familiar Spanish Travels.txt
+filepath data/metrics/George Alfred Henty___Out on the Pampas.txt
+filepath data/metrics/Ambrose Bierce___Shapes of Clay.txt
+filepath data/metrics/R M Ballantyne___The Fugitives.txt
+filepath data/metrics/Bret Harte___Under the Redwoods.txt
+filepath data/metrics/Washington Irving___The Sketch Book of Geoffrey Crayon.txt
+filepath data/metrics/Charlotte Mary Yonge___Chantry House.txt
+filepath data/metrics/Mark Twain___Chapters from My Autobiography.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Valley of Fear.txt
+filepath data/metrics/Baronness Orczy___The Nest of the Sparrowhawk.txt
+filepath data/metrics/Charlotte Mary Yonge___The Lances of Lynwood.txt
+filepath data/metrics/Winston Churchill___Coniston, Complete.txt
+filepath data/metrics/R M Ballantyne___The Prairie Chief.txt
+filepath data/metrics/Hector Hugh Munro___Beasts and Super-Beasts.txt
+filepath data/metrics/George Bernard Shaw___Cashel Byron's Profession.txt
+filepath data/metrics/P G Wodehouse___The Head of Kay's.txt
+filepath data/metrics/William Makepeace Thackeray___Catherine: A Story.txt
+filepath data/metrics/Harold Bindloss___Kit Musgrave's Luck.txt
+filepath data/metrics/Jerome Klapka Jerome___Malvina of Brittany.txt
+filepath data/metrics/Herbert George Wells___War and the Future.txt
+filepath data/metrics/Edgar Rice Burroughs___The Gods of Mars.txt
+filepath data/metrics/John Bunyan___Grace Abounding to the Chief of Sinners.txt
+filepath data/metrics/James Fenimore Cooper___Jack Tier or The Florida Reef.txt
+filepath data/metrics/Jack London___The God of His Fathers.txt
+filepath data/metrics/John Ruskin___Modern Painters, Volume 3 (of 5).txt
+filepath data/metrics/Louisa May Alcott___Little Men.txt
+filepath data/metrics/Charlotte Mary Yonge___That Stick.txt
+filepath data/metrics/Sir Joseph Dalton Hooker___Himalayan Journals.txt
+filepath data/metrics/Jacob Abbott___Rollo in Holland.txt
+filepath data/metrics/Nathaniel Hawthorne___A Wonder Book and Tanglewood Tales.txt
+filepath data/metrics/Sinclair Lewis___Free Air.txt
+filepath data/metrics/Harold Bindloss___The Greater Power.txt
+filepath data/metrics/Charles Kingsley___Discipline and Other Sermons.txt
+filepath data/metrics/Nathaniel Hawthorne___Grandfather's Chair.txt
+filepath data/metrics/Sir Walter Scott___The Abbot.txt
+filepath data/metrics/Percival Lowell___Noto, An Unexplored Corner of Japan.txt
+filepath data/metrics/Thomas Hardy___The Well-Beloved.txt
+filepath data/metrics/P G Wodehouse___The White Feather.txt
+filepath data/metrics/Charles Darwin___Geological Observations On South America.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Firm of Girdlestone.txt
+filepath data/metrics/Thomas Henry Huxley___Lectures and Essays, Version 1.txt
+filepath data/metrics/Herman Melville___Moby Dick.txt
+filepath data/metrics/Lyman Frank Baum___Mary Louise Solves a Mystery.txt
+filepath data/metrics/R M Ballantyne___My Doggie and I.txt
+filepath data/metrics/O Henry___Roads of Destiny.txt
+filepath data/metrics/Anthony Trollope___The American Senator.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys on a Tour.txt
+filepath data/metrics/Andrew Lang___Homer and His Age.txt
+filepath data/metrics/Charles Dickens___Bleak House.txt
+filepath data/metrics/Howard Pyle___Stolen Treasure.txt
+filepath data/metrics/John Galsworthy___The Forsyte Saga, Complete.txt
+filepath data/metrics/Mark Twain___What Is Man? And Other Essays.txt
+filepath data/metrics/John Keats___Keats: Poems Published in 1820.txt
+filepath data/metrics/P G Wodehouse___Something New.txt
+filepath data/metrics/R M Ballantyne___Ungava.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Lost World.txt
+filepath data/metrics/Wilkie Collins___Little Novels.txt
+filepath data/metrics/Lord Tennyson___Becket and other plays.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Great Secret.txt
+filepath data/metrics/Baronness Orczy___The Bronze Eagle.txt
+filepath data/metrics/Herbert Spencer___Essays on Education and Kindred Subjects.txt
+filepath data/metrics/Jack London___John Barleycorn.txt
+filepath data/metrics/Mark Twain___Following the Equator, Complete.txt
+filepath data/metrics/Robert Louis Stevenson___The Black Arrow.txt
+filepath data/metrics/D H Lawrence___Fantasia of the Unconscious.txt
+filepath data/metrics/Rafael Sabatini___St. Martin's Summer.txt
+filepath data/metrics/Benjamin Franklin___Autobiography of Benjamin Franklin, Version 3.txt
+filepath data/metrics/Lewis Carroll___Sylvie and Bruno.txt
+filepath data/metrics/John Stuart Mill___Autobiography.txt
+filepath data/metrics/Charles Kingsley___Sermons for the Times.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 15.txt
+filepath data/metrics/Bertrand Russell___Mysticism and Logic and Other Essays.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Cinema Murder.txt
+filepath data/metrics/O Henry___Strictly Business.txt
+filepath data/metrics/Daniel Defoe___The History of the Life and Adventures of Mr. Duncan Campbell.txt
+filepath data/metrics/Baronness Orczy___"Unto Caesar".txt
+filepath data/metrics/George Bernard Shaw___Caesar and Cleopatra.txt
+filepath data/metrics/Robert Louis Stevenson___Memories and Portraits.txt
+filepath data/metrics/Wilkie Collins___After Dark.txt
+filepath data/metrics/P B Shelley___The Complete Poetical Works of Percy Bysshe Shelley.txt
+filepath data/metrics/Andrew Lang___Cock Lane and Common-Sense.txt
+filepath data/metrics/Henry James___What Maisie Knew.txt
+filepath data/metrics/Sinclair Lewis___Babbitt.txt
+filepath data/metrics/John Ruskin___Mornings in Florence.txt
+filepath data/metrics/Mark Twain___The Mysterious Stranger and Other Stories.txt
+filepath data/metrics/Sinclair Lewis___The Innocents.txt
+filepath data/metrics/Hamlin Garland___The Trail of the Goldseekers.txt
+filepath data/metrics/James Matthew Barrie___Tommy and Grizel.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Evil Shepherd.txt
+filepath data/metrics/Louisa May Alcott___Shawl-Straps.txt
+filepath data/metrics/Washington Irving___Chronicle of the Conquest of Granada.txt
+filepath data/metrics/Thomas Hardy___The Hand of Ethelberta.txt
+filepath data/metrics/O Henry___The Gentle Grafter.txt
+filepath data/metrics/Harold Bindloss___Harding of Allenwood.txt
+filepath data/metrics/Henry Rider Haggard___Elissa.txt
+filepath data/metrics/Charlotte Mary Yonge___The Pillars of the House, V1.txt
+filepath data/metrics/Nathaniel Hawthorne___Fanshawe.txt
+filepath data/metrics/Rudyard Kipling___Verses 1889-1896.txt
+filepath data/metrics/Edward Stratemeyer___Boys of The Fort.txt
+filepath data/metrics/Lyman Frank Baum___Mary Louise.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Tempting of Tavernake.txt
+filepath data/metrics/Daniel Defoe___The Fortunate Mistress (Parts 1 and 2).txt
+filepath data/metrics/Sir Arthur Conan Doyle___Rodney Stone.txt
+filepath data/metrics/Anthony Trollope___The Claverings.txt
+filepath data/metrics/Benjamin Disraeli___Lothair.txt
+filepath data/metrics/Thomas Hardy___Far from the Madding Crowd.txt
+filepath data/metrics/John Ruskin___Aratra Pentelici, Seven Lectures on the Elements of Sculpture.txt
+filepath data/metrics/Charlotte Bronte___Shirley.txt
+filepath data/metrics/Anthony Trollope___Kept in the Dark.txt
+filepath data/metrics/O Henry___The Trimmed Lamp.txt
+filepath data/metrics/P G Wodehouse___The Little Nugget.txt
+filepath data/metrics/James Otis___On the Kentucky Frontier.txt
+filepath data/metrics/Louisa May Alcott___Eight Cousins.txt
+filepath data/metrics/Ambrose Bierce___Black Beetles in Amber.txt
+filepath data/metrics/Lyman Frank Baum___The Lost Princess of Oz.txt
+filepath data/metrics/Edgar Rice Burroughs___At the Earth's Core.txt
+filepath data/metrics/R M Ballantyne___Twice Bought.txt
+filepath data/metrics/Anthony Trollope___The Macdermots of Ballycloran.txt
+filepath data/metrics/Charles Dickens___Oliver Twist.txt
+filepath data/metrics/Charles Kingsley___Daily Thoughts.txt
+filepath data/metrics/P G Wodehouse___Indiscretions of Archie.txt
+filepath data/metrics/Bret Harte___Colonel Starbottle's Client and Other Stories.txt
+filepath data/metrics/William Dean Howells___The Daughter of the Storage.txt
+
+filepath data/metrics/William Dean Howells___The Rise of Silas Lapham.txt
+filepath data/metrics/Oscar Wilde___A Critic in Pall Mall.txt
+filepath data/metrics/Charlotte Mary Yonge___Dynevor Terrace (Vol. II).txt
+filepath data/metrics/Alfred Russel Wallace___The Malay Archipelago, Volume 2.txt
+filepath data/metrics/Herbert George Wells___Mr. Britling Sees It Through.txt
+filepath data/metrics/James Matthew Barrie___The Little White Bird.txt
+filepath data/metrics/Sir Richard Francis Burton___Two Trips to Gorilla Land and the Cataracts of the Congo, Volume 2.txt
+filepath data/metrics/Anthony Trollope___Harry Heathcote of Gangoil.txt
+filepath data/metrics/Thomas Hardy___Jude the Obscure.txt
+filepath data/metrics/Anthony Trollope___Castle Richmond.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Crime of the Congo.txt
+filepath data/metrics/Louisa May Alcott___Jack and Jill.txt
+filepath data/metrics/Henry David Thoreau___Excursions.txt
+filepath data/metrics/Mark Twain___The Letters Of Mark Twain, Complete.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Refugees.txt
+filepath data/metrics/Hector Hugh Munro___The Chronicles of Clovis.txt
+filepath data/metrics/Sir Isaac Newton___The Chronology of Ancient Kingdoms Amended.txt
+filepath data/metrics/Henry Rider Haggard___Eric Brighteyes.txt
+filepath data/metrics/Lyman Frank Baum___Mother Goose in Prose.txt
+filepath data/metrics/William Wymark Jacobs___More Cargoes.txt
+filepath data/metrics/R M Ballantyne___The Golden Dream.txt
+filepath data/metrics/Wilkie Collins___Rambles Beyond Railways.txt
+filepath data/metrics/Edgar Rice Burroughs___The Lost Continent.txt
+filepath data/metrics/Daniel Defoe___History of the Plague in London.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Missioner.txt
+filepath data/metrics/Emily Bronte___Wuthering Heights.txt
+filepath data/metrics/Thomas Hardy___Life's Little Ironies.txt
+filepath data/metrics/Jacob Abbott___Pyrrhus.txt
+filepath data/metrics/John Bunyan___The Pharisee And The Publican.txt
+filepath data/metrics/Rudyard Kipling___A Diversity of Creatures.txt
+filepath data/metrics/James Joyce___Ulysses.txt
+filepath data/metrics/Charlotte Mary Yonge___Grisly Grisell.txt
+filepath data/metrics/Bret Harte___Selected Stories.txt
+filepath data/metrics/Robert Louis Stevenson___The Master of Ballantrae.txt
+filepath data/metrics/William J Long___Outlines of English and American Literature.txt
+filepath data/metrics/Charlotte Mary Yonge___More Bywords.txt
+filepath data/metrics/Benjamin Disraeli___Lord George Bentinck.txt
+filepath data/metrics/R M Ballantyne___Charlie to the Rescue.txt
+filepath data/metrics/Charles Dickens___Hard Times.txt
+filepath data/metrics/R M Ballantyne___The Buffalo Runners.txt
+filepath data/metrics/Henry Rider Haggard___Child of Storm.txt
+filepath data/metrics/Thomas Hardy___A Group of Noble Dames.txt
+filepath data/metrics/Herbert George Wells___The War in the Air.txt
+filepath data/metrics/Ralph Waldo Emerson___Essays, First Series.txt
+filepath data/metrics/Walt Whitman___Leaves of Grass.txt
+filepath data/metrics/William Dean Howells___Between The Dark And The Daylight.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Lighted Way.txt
+filepath data/metrics/Edgar Rice Burroughs___Thuvia, Maid of Mars.txt
+filepath data/metrics/Mary Shelley___Mathilda.txt
+filepath data/metrics/George Alfred Henty___A Chapter of Adventures.txt
+filepath data/metrics/George Alfred Henty___By England's Aid or The Freeing of the Netherlands (1585-1604).txt
+filepath data/metrics/Thornton Waldo Burgess___The Boy Scouts in A Trapper's Camp.txt
+filepath data/metrics/Sir Walter Scott___The Fortunes of Nigel.txt
+filepath data/metrics/Daniel Defoe___From London to Land's End.txt
+filepath data/metrics/Charles Darwin___The Movements and Habits of Climbing Plants.txt
+filepath data/metrics/Anthony Trollope___Phineas Finn.txt
+filepath data/metrics/Edgar Rice Burroughs___The Mad King.txt
+filepath data/metrics/James Fenimore Cooper___The Two Admirals.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Mischief Maker.txt
+filepath data/metrics/Harold Bindloss___The Long Portage.txt
+filepath data/metrics/George Alfred Henty___Bonnie Prince Charlie.txt
+filepath data/metrics/Samuel Taylor Coleridge___Confessions of an Inquiring Spirit.txt
+filepath data/metrics/Lord Tennyson___Queen Mary and Harold.txt
+filepath data/metrics/Henry James___The Spoils of Poynton.txt
+filepath data/metrics/George Alfred Henty___In the Irish Brigade.txt
+filepath data/metrics/D H Lawrence___Sons and Lovers.txt
+filepath data/metrics/Charles Kingsley___Alexandria and her Schools.txt
+filepath data/metrics/Rafael Sabatini___Mistress Wilding.txt
+filepath data/metrics/Sir Richard Francis Burton___To the Gold Coast for Gold, Volume 2.txt
+filepath data/metrics/Anthony Trollope___Lady Anna.txt
+filepath data/metrics/Walter de la Mare___The Return.txt
+filepath data/metrics/Frank Richard Stockton___A Chosen Few.txt
+filepath data/metrics/George Bernard Shaw___Preface to Androcles and the Lion.txt
+filepath data/metrics/Edward Phillips Oppenheim___A Prince of Sinners.txt
+filepath data/metrics/Louisa May Alcott___Aunt Jo's Scrap-Bag, Volume 5.txt
+filepath data/metrics/Aldous Huxley___Mortal Coils.txt
+filepath data/metrics/Sir Richard Francis Burton___The Land of Midian, Volume 1.txt
+filepath data/metrics/Herbert George Wells___Love and Mr. Lewisham.txt
+filepath data/metrics/George Alfred Henty___Captain Bayley's Heir.txt
+filepath data/metrics/Herbert George Wells___The Wheels of Chance.txt
+filepath data/metrics/John Stuart Mill___On Liberty.txt
+filepath data/metrics/Stephen Leacock___The Hohenzollerns in America.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 8.txt
+filepath data/metrics/Frank Richard Stockton___A Jolly Fellowship.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 2.txt
+filepath data/metrics/Andrew Lang___Pickle the Spy.txt
+filepath data/metrics/Herbert George Wells___The New Machiavelli.txt
+filepath data/metrics/Jacob Abbott___Rollo in Scotland.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Double Traitor.txt
+filepath data/metrics/Lucy Maud Montgomery___Lucy Maud Montgomery Short Stories, 1905 to 1906.txt
+filepath data/metrics/George Alfred Henty___When London Burned.txt
+filepath data/metrics/Nathaniel Hawthorne___Doctor Grimshawe's Secret.txt
+filepath data/metrics/Henry Rider Haggard___Finished.txt
+filepath data/metrics/William Somerset Maugham___The Trembling of a Leaf.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys on Snowshoe Island.txt
+filepath data/metrics/Robert Louis Stevenson___In the South Seas.txt
+filepath data/metrics/Bram Stoker___The Lady of the Shroud.txt
+filepath data/metrics/James Matthew Barrie___Sentimental Tommy.txt
+filepath data/metrics/William Henry Hudson___The Naturalist in La Plata.txt
+filepath data/metrics/Thomas Carlyle___The Life of John Sterling.txt
+filepath data/metrics/P G Wodehouse___The Man Upstairs and Other Stories.txt
+filepath data/metrics/Sir Walter Scott___Minstrelsy of the Scottish border (2 of 3).txt
+filepath data/metrics/Jack London___The Red One.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 10.txt
+filepath data/metrics/James Fenimore Cooper___Mercedes of Castile.txt
+filepath data/metrics/Jacob Abbott___William the Conqueror.txt
+filepath data/metrics/Harold Bindloss___The Impostor.txt
+filepath data/metrics/Charles Kingsley___All Saints' Day and Other Sermons.txt
+filepath data/metrics/Lyman Frank Baum___Mary Louise and the Liberty Girls.txt
+filepath data/metrics/Anthony Trollope___Rachel Ray.txt
+filepath data/metrics/George Alfred Henty___With Cochrane the Dauntless.txt
+filepath data/metrics/Harold Bindloss___Long Odds.txt
+filepath data/metrics/Edward Phillips Oppenheim___A Lost Leader.txt
+filepath data/metrics/John Ruskin___The Ethics of the Dust.txt
+filepath data/metrics/Thomas Carlyle___On the Choice of Books.txt
+filepath data/metrics/Lyman Frank Baum___Aunt Jane's Nieces Abroad.txt
+filepath data/metrics/Charles Kingsley___True Words for Brave Men.txt
+filepath data/metrics/Lyman Frank Baum___Aunt Jane's Nieces on Vacation.txt
+
+filepath data/metrics/Abraham Lincoln___The Writings of Abraham Lincoln, Volume 2: 1843-1858.txt
+filepath data/metrics/Charlotte Mary Yonge___The Long Vacation.txt
+filepath data/metrics/Anthony Trollope___Marion Fay.txt
+filepath data/metrics/P G Wodehouse___Jill the Reckless.txt
+filepath data/metrics/Lucy Maud Montgomery___Anne Of Green Gables.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Master Mummer.txt
+filepath data/metrics/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 03 (of 12).txt
+filepath data/metrics/Daniel Defoe___Memoirs of a Cavalier.txt
+filepath data/metrics/Harold Bindloss___Delilah of the Snows.txt
+filepath data/metrics/Sir Richard Francis Burton___First Footsteps in East Africa.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Great Impersonation.txt
+filepath data/metrics/James Russell Lowell___The Function Of The Poet And Other Essays.txt
+filepath data/metrics/Charlotte Mary Yonge___The Prince and the Page.txt
+filepath data/metrics/G K Chesterton___The Man Who Was Thursday.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys in Southern Waters.txt
+filepath data/metrics/George Alfred Henty___No Surrender!.txt
+filepath data/metrics/Jacob Abbott___Richard III.txt
+filepath data/metrics/William Butler Yeats___Ideas of Good and Evil.txt
+filepath data/metrics/Bret Harte___Complete Poetical Works of Bret Harte.txt
+filepath data/metrics/Benjamin Disraeli___Venetia.txt
+filepath data/metrics/Frank Richard Stockton___The Magic Egg and Other Stories.txt
+filepath data/metrics/Jonathan Swift___The Prose Works of Jonathan Swift, D.D., Volume 7.txt
+filepath data/metrics/John Locke___An Essay Concerning Humane Understanding, Volume 2.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 7.txt
+filepath data/metrics/Charles Dickens___The Mystery of Edwin Drood.txt
+filepath data/metrics/Sir Walter Scott___Quentin Durward.txt
+filepath data/metrics/Bret Harte___Tales of Trail and Town.txt
+filepath data/metrics/Andrew Lang___The Brown Fairy Book.txt
+filepath data/metrics/Henry James___Italian Hours.txt
+filepath data/metrics/Thomas Hardy___The Return of the Native.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Dealings of Captain Sharkey and Other Tales of Pirates.txt
+filepath data/metrics/Bret Harte___In the Carquinez Woods.txt
+filepath data/metrics/Harold Bindloss___By Right of Purchase.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys on the Great Lakes.txt
+filepath data/metrics/Rafael Sabatini___The Historical Nights' Entertainment, Second Series.txt
+filepath data/metrics/Percival Lowell___The Soul of the Far East.txt
+filepath data/metrics/James Fenimore Cooper___Wyandotte.txt
+filepath data/metrics/William Dean Howells___A Modern Instance.txt
+filepath data/metrics/R M Ballantyne___The Young Fur Traders.txt
+filepath data/metrics/Charlotte Mary Yonge___The Daisy Chain.txt
+filepath data/metrics/Thomas Henry Huxley___Aphorisms and Reflections from the Works of T. H. Huxley.txt
+filepath data/metrics/R M Ballantyne___Fighting the Flames.txt
+filepath data/metrics/George Alfred Henty___In Times of Peril.txt
+filepath data/metrics/Samuel Taylor Coleridge___Coleridge's Literary Remains, Volume 4.txt
+filepath data/metrics/Harriet Elizabeth Beecher Stowe___Sunny Memories Of Foreign Lands, Volume 2 (of 2).txt
+filepath data/metrics/Henry James___The Awkward Age.txt
+filepath data/metrics/Anthony Trollope___The Eustace Diamonds.txt
+filepath data/metrics/R M Ballantyne___The Eagle Cliff.txt
+filepath data/metrics/Charles Dickens___Speeches: Literary and Social.txt
+filepath data/metrics/Zane Grey___Wildfire.txt
+filepath data/metrics/Edward Stratemeyer___At the Fall of Port Arthur.txt
+filepath data/metrics/Lucy Maud Montgomery___Lucy Maud Montgomery Short Stories, 1909 to 1922.txt
+filepath data/metrics/Bertrand Russell___Proposed Roads To Freedom.txt
+filepath data/metrics/Charlotte Mary Yonge___Abbeychurch.txt
+filepath data/metrics/Howard Pyle___Twilight Land.txt
+filepath data/metrics/Frank Richard Stockton___John Gayther's Garden and the Stories Told Therein.txt
+filepath data/metrics/John Keats___Letters of John Keats to His Family and Friends.txt
+filepath data/metrics/Harold Bindloss___The Boy Ranchers of Puget Sound.txt
+filepath data/metrics/Anthony Trollope___The Duke's Children.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 1.txt
+filepath data/metrics/Joseph Conrad___The Mirror of the Sea.txt
+filepath data/metrics/Charles Darwin___Volcanic Islands.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 19.txt
+filepath data/metrics/George Alfred Henty___The Young Franc Tireurs.txt
+filepath data/metrics/Jacob Abbott___Richard II.txt
+filepath data/metrics/Herbert George Wells___Marriage.txt
+filepath data/metrics/R M Ballantyne___Blue Lights.txt
+filepath data/metrics/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 07 (of 12).txt
+filepath data/metrics/Mark Twain___A Connecticut Yankee in King Arthur's Court, Complete.txt
+filepath data/metrics/Rudyard Kipling___Actions and Reactions.txt
+filepath data/metrics/Lucy Maud Montgomery___Anne's House of Dreams.txt
+filepath data/metrics/Sir Francis Galton___Finger Prints.txt
+filepath data/metrics/John Ruskin___Ariadne Florentina.txt
+filepath data/metrics/Jerome Klapka Jerome___The Angel and the Author - and Others.txt
+filepath data/metrics/Jack London___The Jacket (The Star-Rover).txt
+filepath data/metrics/James Fenimore Cooper___Miles Wallingford.txt
+filepath data/metrics/Bret Harte___Sally Dows and Other Stories.txt
+filepath data/metrics/P G Wodehouse___Tales of St. Austin's.txt
+filepath data/metrics/Jack London___The People of the Abyss.txt
+filepath data/metrics/Daniel Defoe___An Essay Upon Projects.txt
+filepath data/metrics/R M Ballantyne___Deep Down, a Tale of the Cornish Mines.txt
+filepath data/metrics/Sir Walter Scott___Rob Roy.txt
+filepath data/metrics/William Makepeace Thackeray___Roundabout Papers.txt
+filepath data/metrics/R M Ballantyne___The Red Eric.txt
+filepath data/metrics/Stephen Leacock___Further Foolishness.txt
+filepath data/metrics/Charlotte Mary Yonge___John Keble's Parishes.txt
+filepath data/metrics/G K Chesterton___The Man Who Knew Too Much.txt
+filepath data/metrics/Joseph Conrad___Almayer's Folly.txt
+filepath data/metrics/Charles Dickens___The Letters of Charles Dickens Volume 1.txt
+filepath data/metrics/Hamlin Garland___The Captain of the Gray-Horse Troop.txt
+filepath data/metrics/Robert Louis Stevenson___A Footnote to History.txt
+filepath data/metrics/Robert Louis Stevenson___Letters of Robert Louis Stevenson, Volume 2.txt
+filepath data/metrics/Jane Austen___Northanger Abbey.txt
+filepath data/metrics/Robert Louis Stevenson___Letters of Robert Louis Stevenson, Volume 1.txt
+filepath data/metrics/Charles Kingsley___Town Geology.txt
+filepath data/metrics/Andrew Lang___Shakespeare, Bacon and the Great Unknown.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 23.txt
+filepath data/metrics/P G Wodehouse___Right Ho, Jeeves.txt
+filepath data/metrics/William Dean Howells___The Kentons.txt
+filepath data/metrics/Louisa May Alcott___Moods.txt
+filepath data/metrics/Nathaniel Hawthorne___Passages from the French and Italian Notebooks, Complete.txt
+filepath data/metrics/John Ruskin___The Crown of Wild Olive.txt
+filepath data/metrics/George Alfred Henty___March to Magdala.txt
+filepath data/metrics/Lucy Maud Montgomery___Anne Of Avonlea.txt
+filepath data/metrics/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 06 (of 12).txt
+filepath data/metrics/William Dean Howells___Indian Summer.txt
+filepath data/metrics/George Alfred Henty___Condemned as a Nihilist.txt
+filepath data/metrics/Andrew Lang___The Disentanglers.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys out West.txt
+filepath data/metrics/Zane Grey___The Mysterious Rider.txt
+filepath data/metrics/James Otis___Messenger No. 48.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 3.txt
+
+filepath data/metrics/James Fenimore Cooper___The Wing-and-Wing.txt
+filepath data/metrics/John Galsworthy___Five Tales.txt
+filepath data/metrics/Robert Burns___Poems And Songs Of Robert Burns.txt
+filepath data/metrics/George Alfred Henty___The Queen's Cup.txt
+filepath data/metrics/William Butler Yeats___The Cutting of an Agate.txt
+filepath data/metrics/G K Chesterton___The Club of Queer Trades.txt
+filepath data/metrics/Henry Rider Haggard___She and Allan.txt
+filepath data/metrics/Herbert George Wells___The First Men In The Moon.txt
+filepath data/metrics/Charlotte Mary Yonge___Dynevor Terrace (Vol. I).txt
+filepath data/metrics/Charles Kingsley___Health and Education.txt
+filepath data/metrics/Jerome Klapka Jerome___Idle Ideas in 1905.txt
+filepath data/metrics/Henry Rider Haggard___Allan and the Holy Flower.txt
+filepath data/metrics/D H Lawrence___The Trespasser.txt
+filepath data/metrics/Jack London___When God Laughs and Other Stories.txt
+filepath data/metrics/John Bunyan___The Pilgrim's Progress.txt
+filepath data/metrics/Andrew Lang___The Red Fairy Book.txt
+filepath data/metrics/Jacob Abbott___Rollo in Paris.txt
+filepath data/metrics/William Wordsworth___The Prose Works of William Wordsworth.txt
+filepath data/metrics/William Somerset Maugham___Plays: Lady Frederick, The Explorer, A Man of Honor.txt
+filepath data/metrics/William Makepeace Thackeray___The Book of Snobs.txt
+filepath data/metrics/Anthony Trollope___An Eye for an Eye.txt
+filepath data/metrics/Sir Walter Scott___Guy Mannering.txt
+filepath data/metrics/Harriet Elizabeth Beecher Stowe___Pink and White Tyranny.txt
+filepath data/metrics/John Morley___Diderot and the Encyclopædists (Vol 1 of 2).txt
+filepath data/metrics/William Somerset Maugham___The Magician.txt
+filepath data/metrics/Wilkie Collins___The Legacy of Cain.txt
+filepath data/metrics/Andrew Lang___The Yellow Fairy Book.txt
+filepath data/metrics/Herbert George Wells___The Door in the Wall And Other Stories.txt
+filepath data/metrics/George Alfred Henty___Under Wellington's Command.txt
+filepath data/metrics/Hamlin Garland___Victor Ollnee's Discipline.txt
+filepath data/metrics/William J Long___Secret of the Woods.txt
+filepath data/metrics/Henry James___The Turn of the Screw.txt
+filepath data/metrics/Wilkie Collins___Hide and Seek.txt
+filepath data/metrics/Herbert George Wells___The Country of the Blind, And Other Stories.txt
+filepath data/metrics/Henry Rider Haggard___Swallow.txt
+filepath data/metrics/Bret Harte___Cressy.txt
+filepath data/metrics/James Otis___An Amateur Fireman.txt
+filepath data/metrics/Daniel Defoe___Military Memoirs of Capt. George Carleton.txt
+filepath data/metrics/D H Lawrence___Aaron's Rod.txt
+filepath data/metrics/John Dryden___Dryden's Works Vol. 5 (of 18).txt
+filepath data/metrics/Edward Phillips Oppenheim___The Profiteers.txt
+filepath data/metrics/G K Chesterton___George Bernard Shaw.txt
+filepath data/metrics/Grant Allen___Biographies of Working Men.txt
+filepath data/metrics/Andrew Lang___Myth, Ritual And Religion, Vol. 2 (of 2).txt
+filepath data/metrics/Frank Richard Stockton___A Bicycle of Cathay.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Survivor.txt
+filepath data/metrics/Louisa May Alcott___Rose in Bloom.txt
+filepath data/metrics/Charles Dickens___David Copperfield.txt
+filepath data/metrics/Henry Francis Cary___Lives of the English Poets.txt
+filepath data/metrics/Charles Dickens___The Uncommercial Traveller.txt
+filepath data/metrics/Daniel Defoe___The Further Adventures of Robinson Crusoe.txt
+filepath data/metrics/Anthony Trollope___The Struggles of Brown, Jones, and Robinson.txt
+filepath data/metrics/Charles Darwin___On the Origin of Species 6th Edition.txt
+filepath data/metrics/Mark Twain___The $30,000 Bequest and Other Stories.txt
+filepath data/metrics/Rafael Sabatini___The Shame of Motley.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Adventures of Sherlock Holmes.txt
+filepath data/metrics/Harold Bindloss___Carmen's Messenger.txt
+filepath data/metrics/Henry Rider Haggard___Dawn.txt
+filepath data/metrics/William Dean Howells___The Flight of Pony Baker.txt
+filepath data/metrics/Henry Rider Haggard___When the World Shook.txt
+filepath data/metrics/William Henry Hudson___Birds and Man.txt
+filepath data/metrics/Washington Irving___Oliver Goldsmith.txt
+filepath data/metrics/Wilkie Collins___The Haunted Hotel.txt
+filepath data/metrics/Rafael Sabatini___The Life of Cesare Borgia.txt
+filepath data/metrics/Charles Dickens___The Pickwick Papers.txt
+filepath data/metrics/James Otis___A Runaway Brig.txt
+filepath data/metrics/John Ruskin___The Queen of the Air.txt
+filepath data/metrics/Wilkie Collins___Basil.txt
+filepath data/metrics/Jack London___Michael, Brother of Jerry.txt
+filepath data/metrics/Anthony Trollope___John Caldigate.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Box with the Broken Seals.txt
+filepath data/metrics/William Wordsworth___The Poetical Works of William Wordsworth, Volume 1.txt
+filepath data/metrics/George Alfred Henty___Among Malay Pirates.txt
+filepath data/metrics/G K Chesterton___Heretics.txt
+filepath data/metrics/Anthony Trollope___The Golden Lion of Granpere.txt
+filepath data/metrics/Charles Kingsley___Two Years Ago, Volume I.txt
+filepath data/metrics/George Eliot___Romola.txt
+filepath data/metrics/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 01 (of 12).txt
+filepath data/metrics/Joseph Conrad___Victory.txt
+filepath data/metrics/Washington Irving___The Student's Life of Washington.txt
+filepath data/metrics/Anthony Trollope___Ralph the Heir.txt
+filepath data/metrics/Edward Stratemeyer___First at the North Pole.txt
+filepath data/metrics/Benjamin Disraeli___The Young Duke.txt
+filepath data/metrics/Charles Dickens___Dombey and Son.txt
+filepath data/metrics/Thomas Henry Huxley___Lay Sermons, Addresses and Reviews.txt
+filepath data/metrics/Henry James___Notes of a Son and Brother.txt
+filepath data/metrics/Bertrand Russell___Our Knowledge of the External World as a Field for Scientific Method in Philosophy.txt
+filepath data/metrics/R M Ballantyne___Post Haste.txt
+filepath data/metrics/George Alfred Henty___Friends, though divided.txt
+filepath data/metrics/Harold Bindloss___Thurston of Orchard Valley.txt
+filepath data/metrics/Jacob Abbott___History of Julius Caesar.txt
+filepath data/metrics/Winston Churchill___Richard Carvel, Complete.txt
+filepath data/metrics/Agatha Christie___The Mysterious Affair at Styles.txt
+filepath data/metrics/Jonathan Swift___The Poems of Jonathan Swift, D.D., Volume 2.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys in the Jungle.txt
+filepath data/metrics/D H Lawrence___The Rainbow.txt
+filepath data/metrics/Walter de la Mare___The Three Mulla-mulgars.txt
+filepath data/metrics/George Alfred Henty___The Dragon and the Raven.txt
+filepath data/metrics/Hamlin Garland___Prairie Folks.txt
+filepath data/metrics/George Bernard Shaw___The Perfect Wagnerite.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 4.txt
+filepath data/metrics/Lyman Frank Baum___Aunt Jane's Nieces and Uncle John.txt
+filepath data/metrics/Bertrand Russell___The Problem of China.txt
+filepath data/metrics/Lyman Frank Baum___The Patchwork Girl of Oz.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Governors.txt
+filepath data/metrics/William Makepeace Thackeray___The History of Pendennis.txt
+filepath data/metrics/Sir Arthur Conan Doyle___The Tragedy of The Korosko.txt
+filepath data/metrics/George Alfred Henty___A Search For A Secret, a Novel, Volume 3.txt
+filepath data/metrics/Henry James___The Portrait of a Lady, Volume 2.txt
+filepath data/metrics/Anthony Trollope___He Knew He Was Right.txt
+filepath data/metrics/Rafael Sabatini___Bardelys the Magnificent.txt
+filepath data/metrics/George Alfred Henty___Orange and Green.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys on a Hunt.txt
+filepath data/metrics/G K Chesterton___The New Jerusalem.txt
+filepath data/metrics/Harold Bindloss___Brandon of the Engineers.txt
+filepath data/metrics/P G Wodehouse___The Pothunters.txt
+filepath data/metrics/Grant Allen___The Woman Who Did.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 13.txt
+
+filepath data/metrics/Thomas Hardy___The Trumpet-Major.txt
+filepath data/metrics/Louisa May Alcott___Behind A Mask, Or A Woman's Power.txt
+filepath data/metrics/Charles Kingsley___Literary and General Lectures and Essays.txt
+filepath data/metrics/Henry James___Hawthorne.txt
+filepath data/metrics/Zane Grey___Tales of Fishes.txt
+filepath data/metrics/Walt Whitman___Poems By Walt Whitman.txt
+filepath data/metrics/Lucy Maud Montgomery___The Story Girl.txt
+filepath data/metrics/John Morley___Indian speeches (1907-1909).txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys on Land and Sea.txt
+filepath data/metrics/Louisa May Alcott___A Modern Cinderella.txt
+filepath data/metrics/Charles Dickens___Sketches by Boz.txt
+filepath data/metrics/Bret Harte___Gabriel Conroy.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys on the River.txt
+filepath data/metrics/John Locke___An Essay Concerning Humane Understanding, Volume 1.txt
+filepath data/metrics/Herman Melville___Omoo: Adventures in the South Seas.txt
+filepath data/metrics/Zane Grey___The Young Forester.txt
+filepath data/metrics/Bram Stoker___The Jewel of Seven Stars.txt
+filepath data/metrics/Wilkie Collins___Jezebel's Daughter.txt
+filepath data/metrics/Daniel Defoe___A New Voyage Round the World by a Course Never Sailed Before.txt
+filepath data/metrics/Herbert George Wells___Kipps.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 4.txt
+filepath data/metrics/George Alfred Henty___The Treasure of the Incas.txt
+filepath data/metrics/Frank Richard Stockton___The Associate Hermits.txt
+filepath data/metrics/Zane Grey___Betty Zane.txt
+filepath data/metrics/Nathaniel Hawthorne___The Blithedale Romance.txt
+filepath data/metrics/James Russell Lowell___The Writings of James Russell Lowell in Prose and Poetry, Volume V.txt
+filepath data/metrics/Rudyard Kipling___From Sea to Sea.txt
+filepath data/metrics/Edgar Rice Burroughs___The Chessmen of Mars.txt
+filepath data/metrics/Charlotte Mary Yonge___Magnum Bonum.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys in Camp.txt
+filepath data/metrics/John Milton___The Poetical Works of John Milton.txt
+filepath data/metrics/Henry James___The Golden Bowl.txt
+filepath data/metrics/Baronness Orczy___The Old Man in the Corner.txt
+filepath data/metrics/Harold Bindloss___Thrice Armed.txt
+filepath data/metrics/R M Ballantyne___The Lifeboat.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 18.txt
+filepath data/metrics/Lucy Maud Montgomery___Anne Of The Island.txt
+filepath data/metrics/Baronness Orczy___I Will Repay.txt
+filepath data/metrics/George Alfred Henty___For Name and Fame.txt
+filepath data/metrics/Baronness Orczy___The Scarlet Pimpernel.txt
+filepath data/metrics/Sir Walter Scott___Waverley.txt
+filepath data/metrics/Harold Bindloss___Masters of the Wheat-Lands.txt
+filepath data/metrics/R M Ballantyne___The Wild Man of the West.txt
+filepath data/metrics/William Dean Howells___London Films.txt
+filepath data/metrics/Anthony Trollope___Life of Cicero Volume One.txt
+filepath data/metrics/William Somerset Maugham___The Explorer.txt
+filepath data/metrics/Andrew Lang___Modern Mythology.txt
+filepath data/metrics/Rudyard Kipling___The Day's Work, Volume 1.txt
+filepath data/metrics/Edgar Rice Burroughs___The Oakdale Affair.txt
+filepath data/metrics/R M Ballantyne___Hudson Bay.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 12.txt
+filepath data/metrics/Louisa May Alcott___Lulu's Library, Volume II.txt
+filepath data/metrics/Charlotte Mary Yonge___The Caged Lion.txt
+filepath data/metrics/Harold Bindloss___The Gold Trail.txt
+filepath data/metrics/Herbert George Wells___God The Invisible King.txt
+filepath data/metrics/Edward Phillips Oppenheim___A People's Man.txt
+filepath data/metrics/William Somerset Maugham___The Moon and Sixpence.txt
+filepath data/metrics/Sir Walter Scott___The Fair Maid of Perth.txt
+filepath data/metrics/Jack London___The Mutiny of the Elsinore.txt
+filepath data/metrics/Henry James___The Sacred Fount.txt
+filepath data/metrics/Stephen Leacock___Moonbeams From the Larger Lunacy.txt
+filepath data/metrics/Henry James___A London Life and Other Tales.txt
+filepath data/metrics/Lord Byron___The Works of Lord Byron. Vol. 6.txt
+filepath data/metrics/Edward Phillips Oppenheim___To Win the Love He Sought.txt
+filepath data/metrics/Charlotte Mary Yonge___The Trial.txt
+filepath data/metrics/William Dean Howells___Through the Eye of the Needle.txt
+filepath data/metrics/John Dryden___Discourses on Satire and Epic Poetry.txt
+filepath data/metrics/Herbert George Wells___First and Last Things.txt
+filepath data/metrics/Andrew Lang___The Grey Fairy Book.txt
+filepath data/metrics/Wilkie Collins___The New Magdalen.txt
+filepath data/metrics/Anthony Trollope___The Vicar of Bullhampton.txt
+filepath data/metrics/Bret Harte___By Shore and Sedge.txt
+filepath data/metrics/Jacob Abbott___Peter the Great.txt
+filepath data/metrics/Edward Stratemeyer___Three Young Ranchmen.txt
+filepath data/metrics/Jack London___The Valley of the Moon.txt
+filepath data/metrics/Robert Louis Stevenson___David Balfour, Second Part.txt
+filepath data/metrics/Ambrose Bierce___The Collected Works of Ambrose Bierce, Volume 2.txt
+filepath data/metrics/Anthony Trollope___Sir Harry Hotspur of Humblethwaite.txt
+filepath data/metrics/Edward Phillips Oppenheim___Mr. Grex of Monte Carlo.txt
+filepath data/metrics/R M Ballantyne___The Middy and the Moors.txt
+filepath data/metrics/Herbert George Wells___The War of the Worlds.txt
+filepath data/metrics/George Eliot___The Essays of George Eliot.txt
+filepath data/metrics/William Dean Howells___Literature and Life.txt
+filepath data/metrics/P G Wodehouse___The Man with Two Left Feet.txt
+filepath data/metrics/Jack London___Smoke Bellew.txt
+filepath data/metrics/George Alfred Henty___With Wolfe in Canada.txt
+filepath data/metrics/Jack London___Brown Wolf and Other Jack London Stories.txt
+filepath data/metrics/Lyman Frank Baum___Mary Louise in the Country.txt
+filepath data/metrics/Sir Walter Scott___Redgauntlet.txt
+filepath data/metrics/Sir Walter Scott___A Legend of Montrose.txt
+filepath data/metrics/Anthony Trollope___Orley Farm.txt
+filepath data/metrics/Anthony Trollope___Nina Balatka.txt
+filepath data/metrics/Edward Stratemeyer___The Rover Boys on Treasure Isle.txt
+filepath data/metrics/Andrew Lang___Alfred Tennyson.txt
+filepath data/metrics/William Dean Howells___Ragged Lady.txt
+filepath data/metrics/Baronness Orczy___The Heart of a Woman.txt
+filepath data/metrics/Mark Twain___The American Claimant.txt
+filepath data/metrics/Joseph Conrad___Within the Tides.txt
+filepath data/metrics/Harold Bindloss___A Prairie Courtship.txt
+filepath data/metrics/Grant Allen___Miss Cayley's Adventures.txt
+filepath data/metrics/Thomas Hardy___The Mayor of Casterbridge.txt
+filepath data/metrics/Edgar Allan Poe___The Works of Edgar Allan Poe Volume 5.txt
+filepath data/metrics/George Alfred Henty___Jack Archer.txt
+filepath data/metrics/Anthony Trollope___The Small House at Allington.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 18.txt
+filepath data/metrics/William Dean Howells___Italian Journeys.txt
+filepath data/metrics/Herbert George Wells___When the Sleeper Wakes.txt
+filepath data/metrics/James Fenimore Cooper___The Sea Lions.txt
+filepath data/metrics/Sir Richard Francis Burton___The Land of Midian, Volume 2.txt
+filepath data/metrics/Charles Darwin___The Descent of Man and Selection in Relation to Sex Volume I (1st edition).txt
+filepath data/metrics/R M Ballantyne___The Pirate City.txt
+filepath data/metrics/Bertrand Russell___The Practice and Theory of Bolshevism.txt
+filepath data/metrics/Jonathan Swift___The Prose Works of Jonathan Swift, D.D., Volume 9.txt
+filepath data/metrics/Wilkie Collins___Man and Wife.txt
+filepath data/metrics/Jacob Abbott___Darius the Great.txt
+filepath data/metrics/R M Ballantyne___In the Track of the Troops.txt
+filepath data/metrics/Bret Harte___Maruja.txt
+filepath data/metrics/John Galsworthy___The Patrician.txt
+filepath data/metrics/Edward Stratemeyer___To Alaska for Gold.txt
+filepath data/metrics/P G Wodehouse___Mike.txt
+
+filepath data/metrics/Wilkie Collins___The Two Destinies.txt
+filepath data/metrics/Anthony Trollope___Framley Parsonage.txt
+filepath data/metrics/Benjamin Disraeli___Sybil.txt
+filepath data/metrics/O Henry___Cabbages and Kings.txt
+filepath data/metrics/Sir Arthur Conan Doyle___Through the Magic Door.txt
+filepath data/metrics/Sir Walter Scott___The Surgeon's Daughter.txt
+filepath data/metrics/Zane Grey___The Desert of Wheat.txt
+filepath data/metrics/R M Ballantyne___The Big Otter.txt
+filepath data/metrics/James Matthew Barrie___The Little Minister.txt
+filepath data/metrics/Charlotte Mary Yonge___Under the Storm.txt
+filepath data/metrics/Jonathan Swift___The Prose Works of Jonathan Swift, D.D., Volume 3.txt
+filepath data/metrics/Samuel Taylor Coleridge___Specimens of the Table Talk of S.T.Coleridge.txt
+filepath data/metrics/Zane Grey___The Redheaded Outfield and Other Baseball Stories.txt
+filepath data/metrics/Daniel Defoe___The Life and Adventures of Robinson Crusoe Of York, Mariner, Vol. 1.txt
+filepath data/metrics/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 05 (of 12).txt
+filepath data/metrics/Leigh Hunt___Stories from the Italian Poets: With Lives of the Writers, Volume 2.txt
+filepath data/metrics/Bertrand Russell___The Problems of Philosophy.txt
+filepath data/metrics/Virginia Woolf___The Voyage Out.txt
+filepath data/metrics/Robert Louis Stevenson___Kidnapped.txt
+filepath data/metrics/Bram Stoker___The Lair of the White Worm.txt
+filepath data/metrics/George Alfred Henty___At Agincourt.txt
+filepath data/metrics/Henry Rider Haggard___The Ghost Kings.txt
+filepath data/metrics/Zane Grey___The Light of Western Stars.txt
+filepath data/metrics/James Otis___The Minute Boys of Boston.txt
+filepath data/metrics/Jane Austen___Pride and Prejudice.txt
+filepath data/metrics/John Ruskin___Our Fathers Have Told Us, Part I, The Bible of Amiens.txt
+filepath data/metrics/Henry James___The Ambassadors.txt
+filepath data/metrics/Lucy Maud Montgomery___The Golden Road.txt
+filepath data/metrics/Andrew Lang___Myth, Ritual, and Religion, Vol. 1.txt
+filepath data/metrics/Anthony Trollope___The Three Clerks.txt
+filepath data/metrics/William Wymark Jacobs___The Lady of the Barge.txt
+filepath data/metrics/Edgar Rice Burroughs___Pellucidar.txt
+filepath data/metrics/Andrew Lang___The Violet Fairy Book.txt
+filepath data/metrics/John Ruskin___The Poetry of Architecture.txt
+filepath data/metrics/P G Wodehouse___The Coming of Bill.txt
+filepath data/metrics/Lord Byron___The Works of Lord Byron: Letters and Journals. Vol. 1.txt
+filepath data/metrics/Aldous Huxley___Crome Yellow.txt
+filepath data/metrics/Thomas Henry Huxley___Critiques and Addresses.txt
+filepath data/metrics/Abraham Lincoln___Lincoln's Inaugurals, Addresses and Letters (Selections).txt
+filepath data/metrics/George Alfred Henty___Colonel Thorndyke's Secret.txt
+filepath data/metrics/Edward Phillips Oppenheim___A Millionaire of Yesterday.txt
+filepath data/metrics/George Bernard Shaw___Back to Methuselah.txt
+filepath data/metrics/Charlotte Mary Yonge___The Armourer's Prentices.txt
+filepath data/metrics/Michael Faraday___Experimental Researches in Electricity, Volume 1.txt
+filepath data/metrics/William Dean Howells___Stories Of Ohio.txt
+filepath data/metrics/R M Ballantyne___The Lonely Island.txt
+filepath data/metrics/Andrew Lang___The Orange Fairy Book.txt
+filepath data/metrics/Hamlin Garland___Other Main-Travelled Roads.txt
+filepath data/metrics/Charlotte Mary Yonge___The Heir of Redclyffe.txt
+filepath data/metrics/George Alfred Henty___Sturdy and Strong.txt
+filepath data/metrics/James Otis___Down the Slope.txt
+filepath data/metrics/Stephen Leacock___Winsome Winnie and other New Nonsense Novels.txt
+filepath data/metrics/R M Ballantyne___The Gorilla Hunters.txt
+filepath data/metrics/Charles Kingsley___Two Years Ago, Volume II.txt
+filepath data/metrics/George Alfred Henty___The Young Carthaginian.txt
+filepath data/metrics/James Russell Lowell___Among My Books, First Series.txt
+filepath data/metrics/Wilkie Collins___The Law and the Lady.txt
+filepath data/metrics/Rafael Sabatini___The Snare.txt
+filepath data/metrics/James Joyce___A Portrait of the Artist as a Young Man.txt
+filepath data/metrics/Howard Pyle___Howard Pyle's Book of Pirates.txt
+filepath data/metrics/Alexander Pope___Essay on Man.txt
+filepath data/metrics/Joseph Conrad___The Shadow-Line.txt
+filepath data/metrics/Lyman Frank Baum___The Emerald City of Oz.txt
+filepath data/metrics/William Makepeace Thackeray___Vanity Fair.txt
+filepath data/metrics/Jacob Abbott___Rollo on the Atlantic.txt
+filepath data/metrics/Zane Grey___The Lone Star Ranger.txt
+filepath data/metrics/Herman Melville___Mardi: and A Voyage Thither, Volume 2.txt
+filepath data/metrics/Lyman Frank Baum___Aunt Jane's Nieces in the Red Cross.txt
+filepath data/metrics/John Milton___Minor Poems by Milton.txt
+filepath data/metrics/James Fenimore Cooper___The Redskins; or, Indian and Injin, Volume 1.txt
+filepath data/metrics/Andrew Lang___Essays in Little.txt
+filepath data/metrics/Harold Bindloss___Partners of the Out-Trail.txt
+filepath data/metrics/Edward Stratemeyer___The Young Bridge-Tender.txt
+filepath data/metrics/Edward Phillips Oppenheim___Mysterious Mr. Sabin.txt
+filepath data/metrics/Edward Phillips Oppenheim___Jeanne of the Marshes.txt
+filepath data/metrics/G K Chesterton___Appreciations and Criticisms of the Works of Charles Dickens.txt
+filepath data/metrics/Lucy Maud Montgomery___Rainbow Valley.txt
+filepath data/metrics/Bram Stoker___The Man.txt
+filepath data/metrics/Rudyard Kipling___Stalky & Co.txt
+filepath data/metrics/Mary Shelley___Frankenstein.txt
+filepath data/metrics/John Ruskin___Selections From the Works of John Ruskin.txt
+filepath data/metrics/Thomas Henry Huxley___Evolution and Ethics and Other Essays.txt
+filepath data/metrics/Harold Bindloss___A Damaged Reputation.txt
+filepath data/metrics/Charlotte Bronte___Jane Eyre.txt
+filepath data/metrics/Anthony Trollope___Ayala's Angel.txt
+filepath data/metrics/Joseph Conrad___Chance.txt
+filepath data/metrics/G K Chesterton___What's Wrong With The World.txt
+filepath data/metrics/John Locke___Second Treatise of Government.txt
+filepath data/metrics/Edward Phillips Oppenheim___The Betrayal.txt
+filepath data/metrics/Hamlin Garland___The Tyranny of the Dark.txt
+filepath data/metrics/R M Ballantyne___Shifting Winds.txt
+filepath data/metrics/Charles Kingsley___Historical Lectures and Essays.txt
+filepath data/metrics/Charles Darwin___A Monograph on the Sub-class Cirripedia (Volume 1 of 2).txt
+filepath data/metrics/Jacob Abbott___Rollo in Naples.txt
+filepath data/metrics/Thomas Carlyle___History of Friedrich II of Prussia, Volume 11.txt
+filepath data/metrics/Bret Harte___Tales of the Argonauts.txt
+filepath data/metrics/P G Wodehouse___My Man Jeeves.txt
+filepath data/metrics/R M Ballantyne___Personal Reminiscences in Book Making.txt
+filepath data/metrics/Harold Bindloss___The Intriguers.txt
+filepath data/metrics/Henry James___A Little Tour in France, Version 1.txt
+filepath data/metrics/Herman Melville___Israel Potter.txt
+filepath data/metrics/William Dean Howells___Annie Kilburn.txt
+filepath data/metrics/Joseph Conrad___A Personal Record.txt
+filepath data/metrics/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 22.txt
+filepath data/metrics/Zane Grey___The U.P. Trail.txt
+filepath data/metrics/Thomas Hardy___Wessex Tales.txt
